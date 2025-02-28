@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wordpress/","updated":"2025-02-28T15:56:35.987+08:00"}
+{"dg-publish":true,"permalink":"/wordpress/","created":"2025-02-18T01:33:24.000+08:00","updated":"2025-02-28T15:56:35.987+08:00"}
 ---
 
 WordPress 和 GitHub Pages 是两种常见的网页搭建方式，各有优缺点，适用于不同的场景。以下是详细的对比分析：

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gitignore/","updated":"2025-02-28T17:53:14.173+08:00"}
+{"dg-publish":true,"permalink":"/gitignore/","created":"2025-02-18T13:23:32.745+08:00","updated":"2025-02-28T17:53:14.173+08:00"}
 ---
 
 `.gitignore` 是一个用于 **告诉 Git 忽略某些文件或文件夹** 的配置文件。通过 `.gitignore`，你可以避免将不必要的文件（如临时文件、日志文件、IDE 配置文件等）提交到 Git 仓库中。以下是 `.gitignore` 的详细使用方法：

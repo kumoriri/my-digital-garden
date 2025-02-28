@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-digital-garden/","tags":["gardenEntry"],"updated":"2025-02-28T18:06:13.089+08:00"}
+{"dg-publish":true,"permalink":"/obsidian-digital-garden/","tags":["gardenEntry"],"created":"2025-02-28T15:55:00.215+08:00","updated":"2025-02-28T18:06:13.089+08:00"}
 ---
 
 Commend+P
