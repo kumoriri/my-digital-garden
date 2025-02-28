@@ -3,3 +3,6 @@
 ---
 
 Commend+P
+[[Wordpress\|Wordpress]]
+[[Untitled1\|Untitled1]]
+[[2025-02-27\|2025-02-27]]
