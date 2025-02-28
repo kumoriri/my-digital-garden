@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-kumoriri/","tags":["gardenEntry"]}
 ---
 
-   (.ᓀ · ᓂ )
-   Commend+P
+Commend+P
 
 [[Wordpress\|Wordpress]]
 [[Untitled1\|Untitled1]]
