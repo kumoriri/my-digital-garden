@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Mad Espresso Team｜瓦西里美食城/","created":"2025-03-17T18:28:46.194+08:00","updated":"2025-03-17T20:46:38.631+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Mad Espresso Team｜瓦西里美食城/","tags":["rednote"],"created":"2025-03-17T18:28:46.194+08:00","updated":"2025-03-17T21:38:17.171+08:00"}
 ---
 
 作者：kumori

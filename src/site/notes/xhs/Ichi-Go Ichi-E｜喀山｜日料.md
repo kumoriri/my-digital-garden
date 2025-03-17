@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Ichi-Go Ichi-E｜喀山｜日料/","created":"2025-03-17T18:24:14.426+08:00","updated":"2025-03-17T20:47:12.106+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Ichi-Go Ichi-E｜喀山｜日料/","tags":["rednote"],"created":"2025-03-17T18:24:14.426+08:00","updated":"2025-03-17T21:40:13.098+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Vseklassno Coffee Bar｜瓦西里岛/","created":"2025-03-17T18:23:11.166+08:00","updated":"2025-03-17T20:47:33.143+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Vseklassno Coffee Bar｜瓦西里岛/","tags":["rednote"],"created":"2025-03-17T18:23:11.166+08:00","updated":"2025-03-17T21:40:00.008+08:00"}
 ---
 
 作者：kumori

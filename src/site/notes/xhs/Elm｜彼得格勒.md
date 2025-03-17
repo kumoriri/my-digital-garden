@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Elm｜彼得格勒/","created":"2025-03-17T18:25:13.348+08:00","updated":"2025-03-17T20:47:40.341+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Elm｜彼得格勒/","tags":["rednote"],"created":"2025-03-17T18:25:13.348+08:00","updated":"2025-03-17T21:40:33.272+08:00"}
 ---
 
 作者：kumori
