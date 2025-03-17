@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/hiro-izakaya-bertgold-czentr/","created":"2025-03-17T18:27:30.266+08:00","updated":"2025-03-17T20:47:48.942+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Hiro izakaya｜Бертгольд центр｜日料/","created":"2025-03-17T18:27:30.266+08:00","updated":"2025-03-17T20:47:48.942+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/cho/","created":"2025-03-17T18:24:24.641+08:00","updated":"2025-03-17T20:47:30.309+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Cho｜喀山｜越南粉/","created":"2025-03-17T18:24:24.641+08:00","updated":"2025-03-17T20:47:30.309+08:00"}
 ---
 
 作者：kumori

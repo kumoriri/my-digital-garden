@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/branch/","created":"2025-03-17T18:23:41.966+08:00","updated":"2025-03-17T20:47:14.616+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Branch｜喀山｜黑湖公园/","created":"2025-03-17T18:23:41.966+08:00","updated":"2025-03-17T20:47:14.616+08:00"}
 ---
 
 作者：kumori

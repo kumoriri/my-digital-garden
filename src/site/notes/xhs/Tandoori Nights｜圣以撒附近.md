@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/tandoori-nights/","created":"2025-03-17T18:30:47.407+08:00","updated":"2025-03-17T20:46:02.965+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Tandoori Nights｜圣以撒附近/","created":"2025-03-17T18:30:47.407+08:00","updated":"2025-03-17T20:46:02.965+08:00"}
 ---
 
 作者：kumori
