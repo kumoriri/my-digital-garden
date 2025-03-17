@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Vseklassno Coffee Bar｜瓦西里岛/","tags":["rednote"],"created":"2025-03-17T18:23:11.166+08:00","updated":"2025-03-17T21:40:00.008+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Vseklassno Coffee Bar｜瓦西里岛/","tags":["rednote"],"created":"2025-03-17T18:23:11.166+08:00","updated":"2025-03-17T23:10:17.369+08:00"}
 ---
 
 作者：kumori
@@ -46,3 +46,21 @@ https://www.xiaohongshu.com/explore/664d02ec000000001500a80b?xsec_token=ABn6nEFQ
 足足的阳光真美
 
 > 是！我爱这家嘿嘿 夏天就想坐外面（but国内会热！
+---
+dg-publish: true
+tag: rednote, 圣彼得堡
+---
+作者：kumori
+点赞：10   |   收藏：4   |   评论：0
+
+我永远喜欢这家！ ( ꈍᴗꈍ)
+p2 летний авторский десерт дня 夏日每日甜点 周日是焦糖蜂蜜蛋糕！上面的坚果是咸的，最上层是焦糖，咸甜真的很好吃，没吃过这么好吃的蜂蜜蛋糕（指不腻的
+p3 Джин Тоник 金汤力 有杜松子味但不多，味道正好，喜欢，而且很透明挺漂亮！像白水（不是w
+лимонад огурец-базилик 紫苏黄瓜柠檬水 还不错！感觉这边黄瓜特调都挺好的
+p4-5 新菜单 居然又换了hh但这个材质比之前的不容易脏
+*有个遮阳伞坏了 但还是想坐外面呢w
+
+https://www.xiaohongshu.com/explore/6682745b000000000a024e63?xsec_token=ABsPPhS23x_O4muPGIpAlnOnXv_bN6UDQOWf46y4o-tqg=&xsec_source=pc_user
+
+评论区：===========
+

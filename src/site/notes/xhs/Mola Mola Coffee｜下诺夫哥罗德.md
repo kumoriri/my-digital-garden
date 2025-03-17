@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Mola Mola Coffee｜下诺夫哥罗德/","tags":["rednote"],"created":"2025-03-17T18:30:01.155+08:00","updated":"2025-03-17T21:38:26.828+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Mola Mola Coffee｜下诺夫哥罗德/","tags":["rednote"],"created":"2025-03-17T18:30:01.155+08:00","updated":"2025-03-17T23:11:53.463+08:00"}
 ---
 
 作者：kumori
@@ -25,3 +25,22 @@ https://www.xiaohongshu.com/explore/659497770000000010011e27?xsec_token=ABiEzEAS
 
 
 https://t.me/molabrera
+---
+dg-publish: true
+tag: rednote, 下诺夫哥罗德
+---
+作者：kumori
+点赞：6   |   收藏：1   |   评论：0
+
+这家一如既往的漂亮
+• ЗАВТРАК ОТ МОЛЫ MOLA 早餐 整体还不错！配一杯小小橙汁选了荷包蛋和水波蛋，都是糖心。奶酪和小番茄味道都很不错，喜欢
+два яйца (на выбор: глазунья / скрембл / пашот), томаты черри, зелень, домашний крем чиз с ароматным маслом, шот апельсинового фреша, тартин  鸡蛋x2（可选荷包蛋、炒蛋、水波蛋）、樱桃番茄、香草、自制奶油奶酪和风味黄油、一杯橙汁、塔塔。
+• кекс смородина-мята 醋栗薄荷蛋糕切片 我是能吃薄荷的人了x还不错稍微有点甜
+• Малина матча 覆盆子抹茶 是结账处传单上的，忘了拍但应该是叫这个，很好喝，上面是覆盆子奶昔，下面是抹茶，分层也非常漂亮
+*附菜单
+*是会一直想去的店( ᎔˘꒳˘᎔)喜欢季节限定
+
+https://www.xiaohongshu.com/explore/66743a16000000001c02aebe?xsec_token=ABuTWu-lRZ900CQ9JIubTuCPgNpTbsgEpD3B7P3E304R0=&xsec_source=pc_user
+
+评论区：===========
+
