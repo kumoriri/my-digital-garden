@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Torrefazione Cannaregio｜威尼斯/","created":"2025-03-17T22:03:49.461+08:00","updated":"2025-03-17T22:03:49.461+08:00"}
+{"dg-publish":true,"permalink":"/xhs/torrefazione-cannaregio/","updated":"2025-03-17T22:03:49.461+08:00"}
 ---
 
 作者：kumori

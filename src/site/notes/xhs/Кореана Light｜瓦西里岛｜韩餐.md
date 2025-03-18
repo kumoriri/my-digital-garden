@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/koreana-light/","tags":["rednote","圣彼得堡"],"noteIcon":"","updated":"2025-03-17T22:16:24.184+08:00"}
+{"dg-publish":true,"permalink":"/xhs/koreana-light/","tags":["rednote","圣彼得堡"],"updated":"2025-03-17T22:16:24.184+08:00"}
 ---
 
 作者：kumori

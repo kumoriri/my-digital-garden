@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/pasta-fresca-2-out-cinema/","noteIcon":"","updated":"2025-03-17T22:30:55.548+08:00"}
+{"dg-publish":true,"permalink":"/xhs/pasta-fresca-2-out-cinema/","updated":"2025-03-17T22:30:55.548+08:00"}
 ---
 
 作者：kumori

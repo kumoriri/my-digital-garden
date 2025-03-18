@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/mola-mola-coffee/","tags":["rednote"],"noteIcon":"","updated":"2025-03-17T23:11:53.463+08:00"}
+{"dg-publish":true,"permalink":"/xhs/mola-mola-coffee/","tags":["rednote"],"updated":"2025-03-17T23:11:53.463+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/o-kuba/","noteIcon":"","updated":"2025-03-17T22:11:47.018+08:00"}
+{"dg-publish":true,"permalink":"/xhs/o-kuba/","updated":"2025-03-17T22:11:47.018+08:00"}
 ---
 
 作者：kumori

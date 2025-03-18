@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/oblate-cafeteria/","noteIcon":"","updated":"2025-03-17T22:02:26.708+08:00"}
+{"dg-publish":true,"permalink":"/xhs/oblate-cafeteria/","updated":"2025-03-17T22:02:26.708+08:00"}
 ---
 
 作者：kumori

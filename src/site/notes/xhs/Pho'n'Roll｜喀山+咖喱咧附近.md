@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/pho-n-roll/","tags":["rednote","圣彼得堡"],"noteIcon":"","updated":"2025-03-17T22:18:12.377+08:00"}
+{"dg-publish":true,"permalink":"/xhs/pho-n-roll/","tags":["rednote","圣彼得堡"],"updated":"2025-03-17T22:18:12.377+08:00"}
 ---
 
 作者：kumori

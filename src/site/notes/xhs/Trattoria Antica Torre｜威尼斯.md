@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Trattoria Antica Torre｜威尼斯/","created":"2025-03-17T22:04:22.492+08:00","updated":"2025-03-17T22:04:22.492+08:00"}
+{"dg-publish":true,"permalink":"/xhs/trattoria-antica-torre/","updated":"2025-03-17T22:04:22.492+08:00"}
 ---
 
 作者：kumori

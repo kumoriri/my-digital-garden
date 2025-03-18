@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/neve-di-latte/","tags":["rednote","罗马"],"noteIcon":"","updated":"2025-03-17T21:54:31.947+08:00"}
+{"dg-publish":true,"permalink":"/xhs/neve-di-latte/","tags":["rednote","罗马"],"updated":"2025-03-17T21:54:31.947+08:00"}
 ---
 
 作者：kumori

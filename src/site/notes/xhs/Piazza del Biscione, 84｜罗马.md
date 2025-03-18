@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/piazza-del-biscione-84/","tags":["rednote","罗马"],"noteIcon":"","updated":"2025-03-17T21:57:25.042+08:00"}
+{"dg-publish":true,"permalink":"/xhs/piazza-del-biscione-84/","tags":["rednote","罗马"],"updated":"2025-03-17T21:57:25.042+08:00"}
 ---
 
 作者：kumori

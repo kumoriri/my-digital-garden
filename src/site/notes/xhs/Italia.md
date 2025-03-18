@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/italia/","noteIcon":"","updated":"2025-03-17T22:26:26.388+08:00"}
+{"dg-publish":true,"permalink":"/xhs/italia/","updated":"2025-03-17T22:26:26.388+08:00"}
 ---
 
 作者：kumori

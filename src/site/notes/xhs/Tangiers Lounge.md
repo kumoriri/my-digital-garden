@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Tangiers Lounge/","created":"2025-03-17T22:12:23.997+08:00","updated":"2025-03-17T22:12:23.997+08:00"}
+{"dg-publish":true,"permalink":"/xhs/tangiers-lounge/","updated":"2025-03-17T22:12:23.997+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/lee-s-food/","tags":["rednote"],"noteIcon":"","updated":"2025-03-17T21:38:51.957+08:00"}
+{"dg-publish":true,"permalink":"/xhs/lee-s-food/","tags":["rednote"],"updated":"2025-03-17T21:38:51.957+08:00"}
 ---
 
 作者：kumori

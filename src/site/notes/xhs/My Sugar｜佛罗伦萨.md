@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/my-sugar/","noteIcon":"","updated":"2025-03-17T22:01:19.905+08:00"}
+{"dg-publish":true,"permalink":"/xhs/my-sugar/","updated":"2025-03-17T22:01:19.905+08:00"}
 ---
 
 作者：kumori
