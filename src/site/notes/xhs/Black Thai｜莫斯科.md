@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/black-thai/","noteIcon":"","updated":"2025-03-17T22:21:12.666+08:00"}
+{"dg-publish":true,"permalink":"/xhs/black-thai/","updated":"2025-03-17T22:21:12.666+08:00"}
 ---
 
 作者：kumori

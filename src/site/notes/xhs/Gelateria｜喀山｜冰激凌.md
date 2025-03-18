@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/gelateria/","tags":["rednote"],"noteIcon":"","updated":"2025-03-17T21:40:43.556+08:00"}
+{"dg-publish":true,"permalink":"/xhs/gelateria/","tags":["rednote"],"updated":"2025-03-17T21:40:43.556+08:00"}
 ---
 
 作者：kumori

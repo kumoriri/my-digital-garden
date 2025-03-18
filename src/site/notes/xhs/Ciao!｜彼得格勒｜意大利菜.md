@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/ciao/","tags":["rednote","圣彼得堡"],"noteIcon":"","updated":"2025-03-17T22:48:39.658+08:00"}
+{"dg-publish":true,"permalink":"/xhs/ciao/","tags":["rednote","圣彼得堡"],"updated":"2025-03-17T22:48:39.658+08:00"}
 ---
 
 

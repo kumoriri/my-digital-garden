@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/antica-posta-b-and-b/","noteIcon":"","updated":"2025-03-17T22:01:11.483+08:00"}
+{"dg-publish":true,"permalink":"/xhs/antica-posta-b-and-b/","updated":"2025-03-17T22:01:11.483+08:00"}
 ---
 
 作者：kumori

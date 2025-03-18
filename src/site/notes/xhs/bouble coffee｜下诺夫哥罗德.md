@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/bouble-coffee/","tags":["rednote"],"noteIcon":"","updated":"2025-03-17T21:38:20.423+08:00"}
+{"dg-publish":true,"permalink":"/xhs/bouble-coffee/","tags":["rednote"],"updated":"2025-03-17T21:38:20.423+08:00"}
 ---
 
 作者：kumori

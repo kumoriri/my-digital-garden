@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/asiatiq2/","tags":["rednote","圣彼得堡"],"noteIcon":"","updated":"2025-03-17T22:17:32.043+08:00"}
+{"dg-publish":true,"permalink":"/xhs/asiatiq2/","tags":["rednote","圣彼得堡"],"updated":"2025-03-17T22:17:32.043+08:00"}
 ---
 
 

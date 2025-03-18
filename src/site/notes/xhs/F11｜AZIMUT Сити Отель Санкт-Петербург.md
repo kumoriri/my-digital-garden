@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/f11-azimut-siti-otel-sankt-peterburg/","noteIcon":"","updated":"2025-03-17T22:12:47.341+08:00"}
+{"dg-publish":true,"permalink":"/xhs/f11-azimut-siti-otel-sankt-peterburg/","updated":"2025-03-17T22:12:47.341+08:00"}
 ---
 
 作者：kumori

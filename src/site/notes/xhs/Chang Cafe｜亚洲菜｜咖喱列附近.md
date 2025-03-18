@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/chang-cafe/","noteIcon":"","updated":"2025-03-17T21:59:53.846+08:00"}
+{"dg-publish":true,"permalink":"/xhs/chang-cafe/","updated":"2025-03-17T21:59:53.846+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/cafe-bakery-bonjour/","noteIcon":"","updated":"2025-03-17T22:10:56.918+08:00"}
+{"dg-publish":true,"permalink":"/xhs/cafe-bakery-bonjour/","updated":"2025-03-17T22:10:56.918+08:00"}
 ---
 
 作者：kumori

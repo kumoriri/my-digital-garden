@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/ivory-garden/","noteIcon":"","updated":"2025-03-17T22:48:24.403+08:00"}
+{"dg-publish":true,"permalink":"/xhs/ivory-garden/","updated":"2025-03-17T22:48:24.403+08:00"}
 ---
 
 作者：kumori

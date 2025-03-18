@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/and-cafe/","noteIcon":"","updated":"2025-03-17T22:58:40.480+08:00"}
+{"dg-publish":true,"permalink":"/xhs/and-cafe/","updated":"2025-03-17T22:58:40.480+08:00"}
 ---
 
 作者：kumori
