@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Тихий Sushi Lab｜Галерея美食城/","tags":["rednote"],"created":"2025-03-17T18:28:56.850+08:00","updated":"2025-03-17T21:38:32.291+08:00"}
+{"dg-publish":true,"permalink":"/xhs/tihij-sushi-lab-galereya/","tags":["rednote"],"noteIcon":"","updated":"2025-03-17T21:38:32.291+08:00"}
 ---
 
 作者：kumori

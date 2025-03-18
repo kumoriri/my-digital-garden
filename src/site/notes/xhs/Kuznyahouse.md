@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Kuznyahouse/","created":"2025-03-17T22:33:23.584+08:00","updated":"2025-03-17T22:33:23.585+08:00"}
+{"dg-publish":true,"permalink":"/xhs/kuznyahouse/","noteIcon":"","updated":"2025-03-17T22:33:23.585+08:00"}
 ---
 
 作者：kumori

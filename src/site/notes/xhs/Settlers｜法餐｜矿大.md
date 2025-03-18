@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Settlers｜法餐｜矿大/","tags":["rednote"],"created":"2025-03-17T18:26:48.531+08:00","updated":"2025-03-17T21:40:24.005+08:00"}
+{"dg-publish":true,"permalink":"/xhs/settlers/","tags":["rednote"],"noteIcon":"","updated":"2025-03-17T21:40:24.005+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Figata｜意餐｜圣以撒附近/","created":"2025-03-17T23:05:22.504+08:00","updated":"2025-03-17T23:05:22.504+08:00"}
+{"dg-publish":true,"permalink":"/xhs/figata/","noteIcon":"","updated":"2025-03-17T23:05:22.504+08:00"}
 ---
 
 作者：kumori

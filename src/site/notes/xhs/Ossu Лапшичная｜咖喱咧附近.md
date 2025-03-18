@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Ossu Лапшичная｜咖喱咧附近/","tags":["rednote"],"created":"2025-03-17T18:21:07.928+08:00","updated":"2025-03-17T21:38:35.956+08:00"}
+{"dg-publish":true,"permalink":"/xhs/ossu-lapshichnaya/","tags":["rednote"],"noteIcon":"","updated":"2025-03-17T21:38:35.956+08:00"}
 ---
 
 作者：kumori

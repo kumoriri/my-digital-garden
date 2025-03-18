@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/S.forno｜佛罗伦萨/","created":"2025-03-17T22:01:28.813+08:00","updated":"2025-03-17T22:01:28.813+08:00"}
+{"dg-publish":true,"permalink":"/xhs/s-forno/","noteIcon":"","updated":"2025-03-17T22:01:28.813+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Castella shop｜瓦西里岛｜面包/","created":"2025-03-17T23:05:11.832+08:00","updated":"2025-03-17T23:05:11.832+08:00"}
+{"dg-publish":true,"permalink":"/xhs/castella-shop/","noteIcon":"","updated":"2025-03-17T23:05:11.832+08:00"}
 ---
 
 作者：kumori

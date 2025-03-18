@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Asiatiq｜日料/","created":"2025-03-17T22:00:49.829+08:00","updated":"2025-03-17T22:00:49.829+08:00"}
+{"dg-publish":true,"permalink":"/xhs/asiatiq/","noteIcon":"","updated":"2025-03-17T22:00:49.829+08:00"}
 ---
 
 作者：kumori

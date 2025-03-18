@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Saigo｜日料｜滴血教堂对面/","created":"2025-03-17T22:25:53.322+08:00","updated":"2025-03-17T22:25:53.322+08:00"}
+{"dg-publish":true,"permalink":"/xhs/saigo/","noteIcon":"","updated":"2025-03-17T22:25:53.322+08:00"}
 ---
 
 作者：kumori

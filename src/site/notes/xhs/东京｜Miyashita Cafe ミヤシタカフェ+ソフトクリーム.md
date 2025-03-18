@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/东京｜Miyashita Cafe ミヤシタカフェ+ソフトクリーム/","created":"2025-03-17T23:02:56.339+08:00","updated":"2025-03-17T23:02:56.339+08:00"}
+{"dg-publish":true,"permalink":"/xhs/miyashita-cafe/","noteIcon":"","updated":"2025-03-17T23:02:56.339+08:00"}
 ---
 
 作者：kumori

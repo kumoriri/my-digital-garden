@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Perché no!...｜佛罗伦萨/","created":"2025-03-17T22:01:38.849+08:00","updated":"2025-03-17T22:01:38.850+08:00"}
+{"dg-publish":true,"permalink":"/xhs/perche-no/","noteIcon":"","updated":"2025-03-17T22:01:38.850+08:00"}
 ---
 
 作者：kumori

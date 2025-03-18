@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Pasta Fresca｜out cinema附近/","created":"2025-03-17T22:31:49.363+08:00","updated":"2025-03-17T22:31:49.364+08:00"}
+{"dg-publish":true,"permalink":"/xhs/pasta-fresca-out-cinema/","noteIcon":"","updated":"2025-03-17T22:31:49.364+08:00"}
 ---
 
 作者：kumori

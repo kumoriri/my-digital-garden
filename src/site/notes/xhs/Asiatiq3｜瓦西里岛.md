@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Asiatiq3｜瓦西里岛/","created":"2025-03-17T22:22:43.686+08:00","updated":"2025-03-17T22:23:00.369+08:00"}
+{"dg-publish":true,"permalink":"/xhs/asiatiq3/","noteIcon":"","updated":"2025-03-17T22:23:00.369+08:00"}
 ---
 
 作者：kumori
