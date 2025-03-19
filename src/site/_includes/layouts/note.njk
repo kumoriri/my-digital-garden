@@ -1,5 +1,10 @@
 ---
 permalink: "notes/{{ page.fileSlug | slugify }}/"
+{% if page.inputPath.includes('/xhs/') %}
+  permalink: "xhs/{{ page.fileSlug | split('｜') | last | slugify }}/"
+{% else %}
+  permalink: "notes/{{ page.fileSlug | slugify }}/"
+{% endif %}
 ---
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
