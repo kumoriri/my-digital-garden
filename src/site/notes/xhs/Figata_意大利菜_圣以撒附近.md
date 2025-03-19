@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/figata/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"dg-permalink":"\"Figata\"","permalink":"/\"Figata\"/","tags":["rednote","圣彼得堡"]}
 ---
 
 作者：kumori
