@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/coffee-cake/","tags":["rednote"],"updated":"2025-03-17T21:38:55.702+08:00"}
+{"dg-publish":true,"permalink":"/xhs/coffee cake｜下诺夫格罗德/","tags":["rednote"]}
 ---
 
 作者：kumori

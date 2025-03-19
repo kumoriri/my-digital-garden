@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/chang-cafe2/","tags":["rednote"],"updated":"2025-03-17T21:40:38.939+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Chang cafe2｜咖喱咧附近/","tags":["rednote"]}
 ---
 
 作者：kumori

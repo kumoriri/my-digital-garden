@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/civil-dlt/","tags":["rednote","圣彼得堡"],"updated":"2025-03-17T22:18:09.654+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Civil｜dlt对面喀山教堂附近/","tags":["rednote","圣彼得堡"]}
 ---
 
 作者：kumori

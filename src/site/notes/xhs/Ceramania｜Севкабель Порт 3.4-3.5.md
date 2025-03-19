@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/ceramania-sevkabel-port-3-4-3-5/","updated":"2025-03-17T22:28:50.298+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Ceramania｜Севкабель Порт 3.4-3.5/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/pasta-freska-out-cinema/","tags":["rednote"],"updated":"2025-03-17T21:33:41.088+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Паста Фреска｜意大利面｜out cinema/","tags":["rednote"]}
 ---
 
 ￼

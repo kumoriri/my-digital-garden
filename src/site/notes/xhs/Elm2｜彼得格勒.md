@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/elm2/","updated":"2025-03-17T22:13:09.610+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Elm2｜彼得格勒/"}
 ---
 
 作者：kumori

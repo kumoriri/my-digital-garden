@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/bist/","tags":["rednote"],"updated":"2025-03-17T21:33:48.304+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Bist｜瓦西里岛｜意/","tags":["rednote"]}
 ---
 
 作者：kumori

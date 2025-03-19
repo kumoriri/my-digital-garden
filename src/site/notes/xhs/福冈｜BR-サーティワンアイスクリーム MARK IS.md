@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/br-mark-is/","updated":"2025-03-17T23:01:33.657+08:00"}
+{"dg-publish":true,"permalink":"/xhs/福冈｜BR-サーティワンアイスクリーム MARK IS/"}
 ---
 
 作者：kumori

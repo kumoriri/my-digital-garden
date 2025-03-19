@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/suage-hokkaido-soup-curry/","updated":"2025-03-17T22:53:48.652+08:00"}
+{"dg-publish":true,"permalink":"/xhs/首尔｜汤咖喱 Suage Hokkaido Soup Curry/"}
 ---
 
 作者：kumori

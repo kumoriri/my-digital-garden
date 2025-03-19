@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/ivory-garden/","updated":"2025-03-17T22:48:24.403+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Ivory Garden｜咖喱咧附近/"}
 ---
 
 作者：kumori

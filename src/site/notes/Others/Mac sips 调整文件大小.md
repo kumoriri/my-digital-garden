@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/others/mac-sips/","tags":["garden"],"updated":"2025-03-17T21:37:40.862+08:00"}
+{"dg-publish":true,"permalink":"/Others/Mac sips 调整文件大小/","tags":["garden"]}
 ---
 
 

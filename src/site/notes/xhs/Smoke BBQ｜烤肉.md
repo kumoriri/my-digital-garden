@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/smoke-bbq/","updated":"2025-03-17T23:09:20.808+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Smoke BBQ｜烤肉/"}
 ---
 
 作者：kumori

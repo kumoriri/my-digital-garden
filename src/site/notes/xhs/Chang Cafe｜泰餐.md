@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/chang-cafe/","updated":"2025-03-17T22:25:21.442+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Chang Cafe｜泰餐/"}
 ---
 
 作者：kumori

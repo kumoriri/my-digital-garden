@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/stars-coffee/","tags":["rednote"],"updated":"2025-03-17T21:39:53.872+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Stars Coffee｜咖喱咧的/","tags":["rednote"]}
 ---
 
 作者：kumori

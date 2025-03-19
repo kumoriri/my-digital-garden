@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/paul/","tags":["rednote","莫斯科"],"updated":"2025-03-17T22:20:16.011+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Paul｜莫斯科/","tags":["rednote","莫斯科"]}
 ---
 
 作者：kumori

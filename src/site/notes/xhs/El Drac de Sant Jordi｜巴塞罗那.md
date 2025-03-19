@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/el-drac-de-sant-jordi/","updated":"2025-03-17T22:07:58.281+08:00"}
+{"dg-publish":true,"permalink":"/xhs/El Drac de Sant Jordi｜巴塞罗那/"}
 ---
 
 作者：kumori

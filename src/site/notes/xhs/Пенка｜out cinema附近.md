@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/penka-out-cinema/","tags":["rednote","圣彼得堡"],"updated":"2025-03-17T22:33:36.009+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Пенка｜out cinema附近/","tags":["rednote","圣彼得堡"]}
 ---
 
 作者：kumori

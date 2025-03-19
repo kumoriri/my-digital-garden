@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/ichi-go-ichi-e/","tags":["rednote"],"updated":"2025-03-17T21:40:13.098+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Ichi-Go Ichi-E｜喀山｜日料/","tags":["rednote"]}
 ---
 
 作者：kumori

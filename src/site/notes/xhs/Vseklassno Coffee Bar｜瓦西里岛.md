@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/vseklassno-coffee-bar/","tags":["rednote"],"updated":"2025-03-17T23:10:17.369+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Vseklassno Coffee Bar｜瓦西里岛/","tags":["rednote"]}
 ---
 
 作者：kumori

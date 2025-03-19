@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/cee-cee-cafe/","updated":"2025-03-17T22:10:36.984+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Cee Cee Cafe｜柏林/"}
 ---
 
 作者：kumori

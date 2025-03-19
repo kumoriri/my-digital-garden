@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/bistrot-le-moujik/","tags":["rednote"],"updated":"2025-03-17T21:33:37.136+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Bistrot Le Moujik｜法餐｜丰坦卡河畔/","tags":["rednote"]}
 ---
 
 

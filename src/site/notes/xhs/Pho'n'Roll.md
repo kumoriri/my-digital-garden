@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/pho-n-roll/","updated":"2025-03-17T22:36:01.180+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Pho'n'Roll/"}
 ---
 
 作者：kumori

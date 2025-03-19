@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/blossom/","updated":"2025-03-17T22:09:49.508+08:00"}
+{"dg-publish":true,"permalink":"/xhs/BLOSSOM｜柏林/"}
 ---
 
 作者：kumori

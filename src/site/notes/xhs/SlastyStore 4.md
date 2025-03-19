@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/slasty-store-4/","updated":"2025-03-17T22:24:48.601+08:00"}
+{"dg-publish":true,"permalink":"/xhs/SlastyStore 4/"}
 ---
 
 作者：kumori

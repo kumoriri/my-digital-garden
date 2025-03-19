@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/penka-2-out-cinema/","updated":"2025-03-17T22:29:57.313+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Пенка 2｜out cinema附近/"}
 ---
 
 作者：kumori

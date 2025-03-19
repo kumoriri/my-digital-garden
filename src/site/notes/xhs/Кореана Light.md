@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/koreana-light/","updated":"2025-03-17T22:35:25.549+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Кореана Light/"}
 ---
 
 作者：kumori
