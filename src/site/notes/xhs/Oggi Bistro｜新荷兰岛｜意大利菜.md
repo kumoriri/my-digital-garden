@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/oggi-bistro/","updated":"2025-03-17T22:13:25.930+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Oggi Bistro｜新荷兰岛｜意大利菜/"}
 ---
 
 作者：kumori

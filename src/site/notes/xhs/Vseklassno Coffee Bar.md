@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/vseklassno-coffee-bar/","updated":"2025-03-17T22:23:57.451+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Vseklassno Coffee Bar/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/joncake/","updated":"2025-03-17T22:07:50.427+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Joncake｜巴塞罗那/"}
 ---
 
 作者：kumori

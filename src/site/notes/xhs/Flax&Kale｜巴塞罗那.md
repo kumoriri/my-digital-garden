@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/flax-and-kale/","updated":"2025-03-17T22:08:57.694+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Flax&Kale｜巴塞罗那/"}
 ---
 
 作者：kumori

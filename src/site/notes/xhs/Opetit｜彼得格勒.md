@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/opetit/","updated":"2025-03-17T22:24:58.412+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Opetit｜彼得格勒/"}
 ---
 
 作者：kumori
