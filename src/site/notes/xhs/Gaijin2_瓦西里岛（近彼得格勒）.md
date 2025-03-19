@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/gaijin2/"}
+{"dg-publish":true,"permalink":"/xhs/gaijin2/","created":"2025-03-17T22:19:40.799+08:00","updated":"2025-03-17T22:19:40.799+08:00"}
 ---
 
 作者：kumori

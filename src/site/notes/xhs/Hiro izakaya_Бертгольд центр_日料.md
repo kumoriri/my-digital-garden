@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/hiro-izakaya-bertgold-czentr/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/hiro-izakaya-bertgold-czentr/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:27:30.266+08:00","updated":"2025-03-19T21:45:02.573+08:00"}
 ---
 
 作者：kumori

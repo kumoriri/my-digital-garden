@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/vseklassno-coffee-bar1/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/vseklassno-coffee-bar1/","tags":["rednote"],"created":"2025-03-17T18:23:11.166+08:00","updated":"2025-03-17T23:10:17.369+08:00"}
 ---
 
 作者：kumori

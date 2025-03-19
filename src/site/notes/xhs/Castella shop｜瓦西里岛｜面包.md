@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/castella-shop/"}
+{"dg-publish":true,"permalink":"/xhs/castella-shop/","created":"2025-03-17T23:05:11.832+08:00","updated":"2025-03-17T23:05:11.832+08:00"}
 ---
 
 作者：kumori

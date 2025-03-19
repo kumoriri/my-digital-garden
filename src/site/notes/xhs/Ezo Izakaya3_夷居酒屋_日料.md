@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/ezo-izakaya3/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/ezo-izakaya3/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:00:32.454+08:00","updated":"2025-03-19T21:47:03.808+08:00"}
 ---
 
 作者：kumori

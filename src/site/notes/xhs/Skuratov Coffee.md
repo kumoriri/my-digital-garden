@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/skuratov-coffee/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/skuratov-coffee/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:15:55.501+08:00","updated":"2025-03-17T22:16:11.926+08:00"}
 ---
 
 作者：kumori

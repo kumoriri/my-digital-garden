@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/ichi-go-ichi-e/","tags":["rednote","喀山"]}
+{"dg-publish":true,"permalink":"/xhs/ichi-go-ichi-e/","tags":["rednote","喀山"],"created":"2025-03-17T18:24:14.426+08:00","updated":"2025-03-19T21:43:52.991+08:00"}
 ---
 
 作者：kumori

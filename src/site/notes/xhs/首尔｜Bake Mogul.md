@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/bake-mogul/"}
+{"dg-publish":true,"permalink":"/xhs/bake-mogul/","created":"2025-03-17T22:53:16.887+08:00","updated":"2025-03-17T22:53:16.887+08:00"}
 ---
 
 作者：kumori

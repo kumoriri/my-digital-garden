@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/others/mac-sips/","tags":["garden"]}
+{"dg-publish":true,"permalink":"/others/mac-sips/","tags":["garden"],"created":"2025-02-17T22:37:20.743+08:00","updated":"2025-03-17T21:37:40.862+08:00"}
 ---
 
 

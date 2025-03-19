@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/arume-restaurant/"}
+{"dg-publish":true,"permalink":"/xhs/arume-restaurant/","created":"2025-03-17T22:08:44.896+08:00","updated":"2025-03-17T22:08:44.896+08:00"}
 ---
 
 作者：kumori

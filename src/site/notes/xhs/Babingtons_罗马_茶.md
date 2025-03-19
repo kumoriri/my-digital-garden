@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/babingtons/","tags":["rednote","罗马"]}
+{"dg-publish":true,"permalink":"/xhs/babingtons/","tags":["rednote","罗马"],"created":"2025-03-17T21:56:20.608+08:00","updated":"2025-03-17T21:57:31.252+08:00"}
 ---
 
 作者：kumori

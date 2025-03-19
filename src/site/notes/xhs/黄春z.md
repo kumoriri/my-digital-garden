@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/z/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/z/","tags":["rednote"],"created":"2025-03-17T22:44:47.134+08:00","updated":"2025-03-17T22:51:42.690+08:00"}
 ---
 
 作者：kumori

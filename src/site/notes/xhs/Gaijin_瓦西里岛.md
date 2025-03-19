@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/gaijin/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/gaijin/","tags":["rednote"],"created":"2025-03-17T18:31:16.649+08:00","updated":"2025-03-17T22:48:55.540+08:00"}
 ---
 
 作者：kumori

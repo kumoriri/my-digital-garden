@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/glitch-coffee-and-roasters-ginza/"}
+{"dg-publish":true,"permalink":"/xhs/glitch-coffee-and-roasters-ginza/","created":"2025-03-17T23:04:08.562+08:00","updated":"2025-03-17T23:04:08.562+08:00"}
 ---
 
 作者：kumori
