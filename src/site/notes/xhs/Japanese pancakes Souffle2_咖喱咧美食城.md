@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/japanese-pancakes-souffle2/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:45:54.935+08:00","updated":"2025-03-19T21:51:31.002+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Japanese pancakes Souffle2_咖喱咧美食城/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:45:54.935+08:00","updated":"2025-03-19T21:51:31.002+08:00"}
 ---
 
 作者：kumori

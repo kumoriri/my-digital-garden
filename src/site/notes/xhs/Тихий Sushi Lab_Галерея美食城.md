@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/tihij-sushi-lab-galereya/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:28:56.850+08:00","updated":"2025-03-19T21:40:34.412+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Тихий Sushi Lab_Галерея美食城/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:28:56.850+08:00","updated":"2025-03-19T21:40:34.412+08:00"}
 ---
 
 作者：kumori

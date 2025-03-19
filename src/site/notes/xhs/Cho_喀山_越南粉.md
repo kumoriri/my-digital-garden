@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/cho/","tags":["rednote","喀山"],"created":"2025-03-17T18:24:24.641+08:00","updated":"2025-03-19T21:44:07.519+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Cho_喀山_越南粉/","tags":["rednote","喀山"],"created":"2025-03-17T18:24:24.641+08:00","updated":"2025-03-19T21:44:07.519+08:00"}
 ---
 
 作者：kumori

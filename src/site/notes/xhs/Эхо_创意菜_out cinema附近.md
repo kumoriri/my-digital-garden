@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/eho-out-cinema/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:27:04.318+08:00","updated":"2025-03-19T21:37:37.632+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Эхо_创意菜_out cinema附近/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:27:04.318+08:00","updated":"2025-03-19T21:37:37.632+08:00"}
 ---
 
 

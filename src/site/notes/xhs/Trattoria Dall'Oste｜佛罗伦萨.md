@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/trattoria-dall-oste/","created":"2025-03-17T22:02:09.961+08:00","updated":"2025-03-17T22:02:09.962+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Trattoria Dall'Oste｜佛罗伦萨/","created":"2025-03-17T22:02:09.961+08:00","updated":"2025-03-17T22:02:09.962+08:00"}
 ---
 
 作者：kumori

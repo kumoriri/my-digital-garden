@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/mad-espresso-team/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:28:46.194+08:00","updated":"2025-03-19T21:39:56.856+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Mad Espresso Team_咖啡_瓦西里美食城/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:28:46.194+08:00","updated":"2025-03-19T21:39:56.856+08:00"}
 ---
 
 作者：kumori

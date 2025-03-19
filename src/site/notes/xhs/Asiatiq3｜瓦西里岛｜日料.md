@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/asiatiq3/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:22:43.686+08:00","updated":"2025-03-19T20:19:26.816+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Asiatiq3｜瓦西里岛｜日料/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:22:43.686+08:00","updated":"2025-03-19T20:19:26.816+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/gelateria/","tags":["rednote","喀山"],"created":"2025-03-17T18:25:03.082+08:00","updated":"2025-03-19T21:44:45.655+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Gelateria_喀山_冰激凌/","tags":["rednote","喀山"],"created":"2025-03-17T18:25:03.082+08:00","updated":"2025-03-19T21:44:45.655+08:00"}
 ---
 
 作者：kumori

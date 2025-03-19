@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/f11-azimut-siti-otel-sankt-peterburg/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:12:47.340+08:00","updated":"2025-03-19T21:48:13.913+08:00"}
+{"dg-publish":true,"permalink":"/xhs/F11_AZIMUT Сити Отель Санкт-Петербург/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:12:47.340+08:00","updated":"2025-03-19T21:48:13.913+08:00"}
 ---
 
 作者：kumori

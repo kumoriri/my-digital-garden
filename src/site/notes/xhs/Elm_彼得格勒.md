@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/elm/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:25:13.348+08:00","updated":"2025-03-19T21:44:31.484+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Elm_彼得格勒/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:25:13.348+08:00","updated":"2025-03-19T21:44:31.484+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/amy-s-coffee/","created":"2025-03-17T22:57:24.966+08:00","updated":"2025-03-17T22:57:24.967+08:00"}
+{"dg-publish":true,"permalink":"/xhs/首尔｜Amy‘s coffee/","created":"2025-03-17T22:57:24.966+08:00","updated":"2025-03-17T22:57:24.967+08:00"}
 ---
 
 作者：kumori

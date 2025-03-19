@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/cerueseria-catalana-tapas/","created":"2025-03-17T22:07:08.885+08:00","updated":"2025-03-17T22:07:08.885+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Cerueseria catalana (tapas)｜巴塞罗那/","created":"2025-03-17T22:07:08.885+08:00","updated":"2025-03-17T22:07:08.885+08:00"}
 ---
 
 作者：kumori

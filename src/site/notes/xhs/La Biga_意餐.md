@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/la-biga/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:28:20.984+08:00","updated":"2025-03-19T21:37:08.479+08:00"}
+{"dg-publish":true,"permalink":"/xhs/La Biga_意餐/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:28:20.984+08:00","updated":"2025-03-19T21:37:08.479+08:00"}
 ---
 
 

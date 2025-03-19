@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/gaijin2/","created":"2025-03-17T22:19:40.799+08:00","updated":"2025-03-17T22:19:40.799+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Gaijin2_瓦西里岛（近彼得格勒）/","created":"2025-03-17T22:19:40.799+08:00","updated":"2025-03-17T22:19:40.799+08:00"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/mola-mola-coffee/","tags":["rednote","下诺夫哥罗德"],"created":"2025-03-17T18:30:01.155+08:00","updated":"2025-03-19T21:52:49.089+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Mola Mola Coffee_下诺夫哥罗德/","tags":["rednote","下诺夫哥罗德"],"created":"2025-03-17T18:30:01.155+08:00","updated":"2025-03-19T21:52:49.089+08:00"}
 ---
 
 作者：kumori

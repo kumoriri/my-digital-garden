@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/lyubov-gastrobistro/","created":"2025-03-17T22:20:50.141+08:00","updated":"2025-03-17T22:20:50.141+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Любовь gastrobistro｜莫斯科｜红场/","created":"2025-03-17T22:20:50.141+08:00","updated":"2025-03-17T22:20:50.141+08:00"}
 ---
 
 作者：kumori

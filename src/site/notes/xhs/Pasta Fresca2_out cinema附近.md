@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/pasta-fresca2-out-cinema/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:30:55.548+08:00","updated":"2025-03-19T21:50:50.895+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Pasta Fresca2_out cinema附近/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:30:55.548+08:00","updated":"2025-03-19T21:50:50.895+08:00"}
 ---
 
 作者：kumori

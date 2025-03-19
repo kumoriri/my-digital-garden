@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/bistrot-le-moujik/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:24:48.816+08:00","updated":"2025-03-19T21:37:55.492+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Bistrot Le Moujik_法餐_丰坦卡河畔/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:24:48.816+08:00","updated":"2025-03-19T21:37:55.492+08:00"}
 ---
 
 

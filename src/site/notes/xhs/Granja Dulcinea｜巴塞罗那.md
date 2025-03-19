@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/granja-dulcinea/","created":"2025-03-17T22:08:09.592+08:00","updated":"2025-03-17T22:08:09.592+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Granja Dulcinea｜巴塞罗那/","created":"2025-03-17T22:08:09.592+08:00","updated":"2025-03-17T22:08:09.592+08:00"}
 ---
 
 作者：kumori

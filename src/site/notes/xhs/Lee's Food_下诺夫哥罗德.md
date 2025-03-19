@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/lee-s-food/","tags":["rednote","下诺夫哥罗德"],"created":"2025-03-17T18:30:10.704+08:00","updated":"2025-03-19T21:41:23.138+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Lee's Food_下诺夫哥罗德/","tags":["rednote","下诺夫哥罗德"],"created":"2025-03-17T18:30:10.704+08:00","updated":"2025-03-19T21:41:23.138+08:00"}
 ---
 
 作者：kumori

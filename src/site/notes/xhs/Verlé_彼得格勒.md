@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/verle/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:22:58.533+08:00","updated":"2025-03-19T21:42:38.309+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Verlé_彼得格勒/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:22:58.533+08:00","updated":"2025-03-19T21:42:38.309+08:00"}
 ---
 
 作者：kumori

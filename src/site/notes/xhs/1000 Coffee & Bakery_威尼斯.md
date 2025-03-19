@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/1000-coffee-and-bakery/","tags":["rednote","威尼斯"],"created":"2025-03-17T21:56:45.694+08:00","updated":"2025-03-17T21:57:06.616+08:00"}
+{"dg-publish":true,"permalink":"/xhs/1000 Coffee & Bakery_威尼斯/","tags":["rednote","威尼斯"],"created":"2025-03-17T21:56:45.694+08:00","updated":"2025-03-17T21:57:06.616+08:00"}
 ---
 
 作者：kumori

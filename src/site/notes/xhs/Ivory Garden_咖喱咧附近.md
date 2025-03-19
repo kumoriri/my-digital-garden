@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/ivory-garden/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:48:24.402+08:00","updated":"2025-03-19T21:51:43.145+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Ivory Garden_咖喱咧附近/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:48:24.402+08:00","updated":"2025-03-19T21:51:43.145+08:00"}
 ---
 
 作者：kumori

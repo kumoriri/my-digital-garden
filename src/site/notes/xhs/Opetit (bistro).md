@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/opetit-bistro/","created":"2025-03-17T22:28:21.782+08:00","updated":"2025-03-17T22:28:21.782+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Opetit (bistro)/","created":"2025-03-17T22:28:21.782+08:00","updated":"2025-03-17T22:28:21.782+08:00"}
 ---
 
 作者：kumori

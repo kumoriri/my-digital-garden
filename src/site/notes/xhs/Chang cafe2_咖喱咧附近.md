@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/chang-cafe2/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:25:25.308+08:00","updated":"2025-03-19T21:44:39.305+08:00"}
+{"dg-publish":true,"permalink":"/xhs/Chang cafe2_咖喱咧附近/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T18:25:25.308+08:00","updated":"2025-03-19T21:44:39.305+08:00"}
 ---
 
 作者：kumori
