@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Ezo Izakaya｜夷居酒屋/"}
+{"dg-publish":true,"permalink":"/xhs/ezo-izakaya/"}
 ---
 
 作者：kumori

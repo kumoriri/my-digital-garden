@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Madam Yen｜莫斯科/"}
+{"dg-publish":true,"permalink":"/xhs/madam-yen/"}
 ---
 
 作者：kumori

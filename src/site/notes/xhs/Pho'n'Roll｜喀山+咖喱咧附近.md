@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Pho'n'Roll｜喀山+咖喱咧附近/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/pho-n-roll/","tags":["rednote","圣彼得堡"]}
 ---
 
 作者：kumori

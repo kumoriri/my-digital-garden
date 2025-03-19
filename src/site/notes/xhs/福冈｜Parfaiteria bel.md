@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/福冈｜Parfaiteria bel/"}
+{"dg-publish":true,"permalink":"/xhs/parfaiteria-bel/"}
 ---
 
 作者：kumori

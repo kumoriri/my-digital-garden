@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Kuznyahouse/"}
+{"dg-publish":true,"permalink":"/xhs/kuznyahouse/"}
 ---
 
 作者：kumori

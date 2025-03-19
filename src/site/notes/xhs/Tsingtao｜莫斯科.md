@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Tsingtao｜莫斯科/"}
+{"dg-publish":true,"permalink":"/xhs/tsingtao/"}
 ---
 
 作者：kumori

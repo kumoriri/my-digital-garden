@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/首尔｜汤咖喱 Suage Hokkaido Soup Curry/"}
+{"dg-publish":true,"permalink":"/xhs/suage-hokkaido-soup-curry/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Torrefazione Cannaregio｜威尼斯/"}
+{"dg-publish":true,"permalink":"/xhs/torrefazione-cannaregio/"}
 ---
 
 作者：kumori

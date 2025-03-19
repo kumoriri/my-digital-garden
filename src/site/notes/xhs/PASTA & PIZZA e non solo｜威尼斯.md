@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/PASTA & PIZZA e non solo｜威尼斯/"}
+{"dg-publish":true,"permalink":"/xhs/pasta-and-pizza-e-non-solo/"}
 ---
 
 作者：kumori

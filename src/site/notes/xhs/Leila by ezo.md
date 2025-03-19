@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Leila by ezo/"}
+{"dg-publish":true,"permalink":"/xhs/leila-by-ezo/"}
 ---
 
 作者：kumori

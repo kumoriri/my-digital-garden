@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Others/Mac sips 调整文件大小/","tags":["garden"]}
+{"dg-publish":true,"permalink":"/others/mac-sips/","tags":["garden"]}
 ---
 
 

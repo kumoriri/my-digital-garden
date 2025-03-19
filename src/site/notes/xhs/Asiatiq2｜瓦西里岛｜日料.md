@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Asiatiq2｜瓦西里岛｜日料/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/asiatiq2/","tags":["rednote","圣彼得堡"]}
 ---
 
 

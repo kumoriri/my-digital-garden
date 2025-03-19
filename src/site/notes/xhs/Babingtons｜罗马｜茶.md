@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Babingtons｜罗马｜茶/","tags":["rednote","罗马"]}
+{"dg-publish":true,"permalink":"/xhs/babingtons/","tags":["rednote","罗马"]}
 ---
 
 作者：kumori

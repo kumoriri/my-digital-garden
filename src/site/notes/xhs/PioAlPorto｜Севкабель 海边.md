@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/PioAlPorto｜Севкабель 海边/"}
+{"dg-publish":true,"permalink":"/xhs/pio-al-porto-sevkabel/"}
 ---
 
 作者：kumori

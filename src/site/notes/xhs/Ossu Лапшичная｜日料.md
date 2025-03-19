@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Ossu Лапшичная｜日料/"}
+{"dg-publish":true,"permalink":"/xhs/ossu-lapshichnaya/"}
 ---
 
 作者：kumori

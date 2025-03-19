@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Cho｜喀山｜越南粉/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/cho/","tags":["rednote"]}
 ---
 
 作者：kumori

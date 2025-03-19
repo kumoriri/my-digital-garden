@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Pan&Cake/"}
+{"dg-publish":true,"permalink":"/xhs/pan-and-cake/"}
 ---
 
 作者：kumori

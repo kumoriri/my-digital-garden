@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Amorino Rialto｜威尼斯/"}
+{"dg-publish":true,"permalink":"/xhs/amorino-rialto/"}
 ---
 
 作者：kumori

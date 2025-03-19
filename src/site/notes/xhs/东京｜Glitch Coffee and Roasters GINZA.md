@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/东京｜Glitch Coffee and Roasters GINZA/"}
+{"dg-publish":true,"permalink":"/xhs/glitch-coffee-and-roasters-ginza/"}
 ---
 
 作者：kumori

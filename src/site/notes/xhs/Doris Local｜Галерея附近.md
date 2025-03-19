@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Doris Local｜Галерея附近/"}
+{"dg-publish":true,"permalink":"/xhs/doris-local-galereya/"}
 ---
 
 作者：kumori

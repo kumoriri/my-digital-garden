@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Caffè Florian｜威尼斯/"}
+{"dg-publish":true,"permalink":"/xhs/caffe-florian/"}
 ---
 
 作者：kumori

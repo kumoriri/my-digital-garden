@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Tandoori Nights｜圣以撒附近/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/tandoori-nights/","tags":["rednote"]}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/EatMyTrip｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/eat-my-trip/"}
 ---
 
 作者：kumori

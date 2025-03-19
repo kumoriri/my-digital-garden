@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Ceramania｜Севкабель Порт 3.4-3.5/"}
+{"dg-publish":true,"permalink":"/xhs/ceramania-sevkabel-port-3-4-3-5/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/福冈｜COFFEE COUNTY Fukuoka/"}
+{"dg-publish":true,"permalink":"/xhs/coffee-county-fukuoka/"}
 ---
 
 作者：kumori

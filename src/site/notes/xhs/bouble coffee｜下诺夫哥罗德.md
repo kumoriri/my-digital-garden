@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/bouble coffee｜下诺夫哥罗德/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/bouble-coffee/","tags":["rednote"]}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Branch｜喀山｜黑湖公园/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/branch/","tags":["rednote"]}
 ---
 
 作者：kumori

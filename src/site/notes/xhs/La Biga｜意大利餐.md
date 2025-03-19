@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/La Biga｜意大利餐/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/la-biga/","tags":["rednote"]}
 ---
 
 

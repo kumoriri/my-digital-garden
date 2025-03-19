@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/S.forno｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/s-forno/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Zita & Gita｜新荷兰岛印度菜/"}
+{"dg-publish":true,"permalink":"/xhs/zita-and-gita/"}
 ---
 
 作者：kumori

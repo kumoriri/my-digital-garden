@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Perikete｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/perikete/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Karls｜柏林/"}
+{"dg-publish":true,"permalink":"/xhs/karls/"}
 ---
 
 作者：kumori

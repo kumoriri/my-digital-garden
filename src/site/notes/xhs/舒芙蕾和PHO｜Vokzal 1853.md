@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/舒芙蕾和PHO｜Vokzal 1853/"}
+{"dg-publish":true,"permalink":"/xhs/pho-vokzal-1853/"}
 ---
 
 作者：kumori

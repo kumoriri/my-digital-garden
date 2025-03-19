@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Gaijin｜瓦西里岛/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/gaijin/","tags":["rednote"]}
 ---
 
 作者：kumori

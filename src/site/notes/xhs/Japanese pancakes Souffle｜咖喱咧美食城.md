@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Japanese pancakes Souffle｜咖喱咧美食城/"}
+{"dg-publish":true,"permalink":"/xhs/japanese-pancakes-souffle/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/SimBIOsi Organic Cafe｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/sim-bi-osi-organic-cafe/"}
 ---
 
 作者：kumori

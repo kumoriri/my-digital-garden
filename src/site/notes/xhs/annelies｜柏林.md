@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/annelies｜柏林/"}
+{"dg-publish":true,"permalink":"/xhs/annelies/"}
 ---
 
 作者：kumori

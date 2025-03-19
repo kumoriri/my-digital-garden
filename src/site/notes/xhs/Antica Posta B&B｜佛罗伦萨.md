@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Antica Posta B&B｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/antica-posta-b-and-b/"}
 ---
 
 作者：kumori

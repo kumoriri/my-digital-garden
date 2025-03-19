@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Figata｜意大利菜｜圣以撒附近/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/figata/","tags":["rednote"]}
 ---
 
 作者：kumori

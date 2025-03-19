@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Bistrot Le Moujik｜法餐｜丰坦卡河畔/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/bistrot-le-moujik/","tags":["rednote"]}
 ---
 
 

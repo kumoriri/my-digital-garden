@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Git/DS_Store/","tags":["garden"]}
+{"dg-publish":true,"permalink":"/git/ds-store/","tags":["garden"]}
 ---
 
 

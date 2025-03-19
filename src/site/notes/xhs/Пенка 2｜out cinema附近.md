@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Пенка 2｜out cinema附近/"}
+{"dg-publish":true,"permalink":"/xhs/penka-2-out-cinema/"}
 ---
 
 作者：kumori

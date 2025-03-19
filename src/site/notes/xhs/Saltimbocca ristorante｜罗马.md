@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Saltimbocca ristorante｜罗马/","tags":["rednote","罗马"]}
+{"dg-publish":true,"permalink":"/xhs/saltimbocca-ristorante/","tags":["rednote","罗马"]}
 ---
 
 作者：kumori

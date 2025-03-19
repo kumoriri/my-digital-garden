@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/首尔｜Bake Mogul/"}
+{"dg-publish":true,"permalink":"/xhs/bake-mogul/"}
 ---
 
 作者：kumori

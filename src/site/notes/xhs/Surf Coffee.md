@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Surf Coffee/"}
+{"dg-publish":true,"permalink":"/xhs/surf-coffee/"}
 ---
 
 作者：kumori

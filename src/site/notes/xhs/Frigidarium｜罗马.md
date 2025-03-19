@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Frigidarium｜罗马/","tags":["rednote","罗马"]}
+{"dg-publish":true,"permalink":"/xhs/frigidarium/","tags":["rednote","罗马"]}
 ---
 
 作者：kumori

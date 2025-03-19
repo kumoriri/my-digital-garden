@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Sphaeristerium｜罗马/"}
+{"dg-publish":true,"permalink":"/xhs/sphaeristerium/"}
 ---
 
 作者：kumori

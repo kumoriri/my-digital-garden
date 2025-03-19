@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Giotto Pizzeria Firenze｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/giotto-pizzeria-firenze/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Gelateria｜喀山｜冰激凌/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/gelateria/","tags":["rednote"]}
 ---
 
 作者：kumori

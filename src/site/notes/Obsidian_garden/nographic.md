@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian_garden/nographic/","tags":["garden"]}
+{"dg-publish":true,"permalink":"/obsidian-garden/nographic/","tags":["garden"]}
 ---
 
 Mermaid图表不可以放

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Trattoria Dall'Oste｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/trattoria-dall-oste/"}
 ---
 
 作者：kumori

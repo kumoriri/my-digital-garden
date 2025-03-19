@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Cerueseria catalana (tapas)｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/cerueseria-catalana-tapas/"}
 ---
 
 作者：kumori

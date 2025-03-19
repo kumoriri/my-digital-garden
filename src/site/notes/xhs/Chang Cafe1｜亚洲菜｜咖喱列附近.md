@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Chang Cafe1｜亚洲菜｜咖喱列附近/"}
+{"dg-publish":true,"permalink":"/xhs/chang-cafe1/"}
 ---
 
 作者：kumori

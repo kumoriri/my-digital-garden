@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Ristorante Da Tanduo｜威尼斯｜Murano/"}
+{"dg-publish":true,"permalink":"/xhs/ristorante-da-tanduo-murano/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Fried Land｜威尼斯/"}
+{"dg-publish":true,"permalink":"/xhs/fried-land/"}
 ---
 
 作者：kumori

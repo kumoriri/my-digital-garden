@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Arancino/"}
+{"dg-publish":true,"permalink":"/xhs/arancino/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Asiatiq4｜瓦西里岛｜日料/"}
+{"dg-publish":true,"permalink":"/xhs/asiatiq4/"}
 ---
 
 作者：kumori

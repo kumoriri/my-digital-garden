@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Sixty Four｜意大利菜｜圣以撒附近/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/sixty-four/","tags":["rednote"]}
 ---
 
 作者：kumori

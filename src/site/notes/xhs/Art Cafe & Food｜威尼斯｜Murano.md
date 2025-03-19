@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Art Cafe & Food｜威尼斯｜Murano/"}
+{"dg-publish":true,"permalink":"/xhs/art-cafe-and-food-murano/"}
 ---
 
 作者：kumori

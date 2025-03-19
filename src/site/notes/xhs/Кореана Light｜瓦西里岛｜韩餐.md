@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Кореана Light｜瓦西里岛｜韩餐/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/koreana-light/","tags":["rednote","圣彼得堡"]}
 ---
 
 作者：kumori

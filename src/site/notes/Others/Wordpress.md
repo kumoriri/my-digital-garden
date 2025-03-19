@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Others/Wordpress/","tags":["garden"]}
+{"dg-publish":true,"permalink":"/others/wordpress/","tags":["garden"]}
 ---
 
 WordPress 和 GitHub Pages 是两种常见的网页搭建方式，各有优缺点，适用于不同的场景。以下是详细的对比分析：

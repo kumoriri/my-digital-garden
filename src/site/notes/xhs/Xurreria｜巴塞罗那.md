@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Xurreria｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/xurreria/"}
 ---
 
 作者：kumori

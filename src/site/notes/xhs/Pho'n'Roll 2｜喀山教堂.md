@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Pho'n'Roll 2｜喀山教堂/"}
+{"dg-publish":true,"permalink":"/xhs/pho-n-roll-2/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/All’Antico Vinaio｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/all-antico-vinaio/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Café Bakery Bonjour｜柏林/"}
+{"dg-publish":true,"permalink":"/xhs/cafe-bakery-bonjour/"}
 ---
 
 作者：kumori

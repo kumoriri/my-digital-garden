@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/首尔｜拉面&cafe/"}
+{"dg-publish":true,"permalink":"/xhs/and-cafe/"}
 ---
 
 作者：kumori

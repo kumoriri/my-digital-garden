@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Black Thai｜莫斯科/"}
+{"dg-publish":true,"permalink":"/xhs/black-thai/"}
 ---
 
 作者：kumori

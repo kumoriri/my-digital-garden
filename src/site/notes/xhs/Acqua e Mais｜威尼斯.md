@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Acqua e Mais｜威尼斯/"}
+{"dg-publish":true,"permalink":"/xhs/acqua-e-mais/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Cofix/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/cofix/","tags":["rednote","圣彼得堡"]}
 ---
 
 作者：kumori

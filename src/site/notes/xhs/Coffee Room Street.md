@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Coffee Room Street/"}
+{"dg-publish":true,"permalink":"/xhs/coffee-room-street/"}
 ---
 
 作者：kumori

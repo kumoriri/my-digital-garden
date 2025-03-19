@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Spritz/"}
+{"dg-publish":true,"permalink":"/xhs/spritz/"}
 ---
 
 作者：kumori

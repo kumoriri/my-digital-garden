@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Gellert Bar｜下诺夫哥罗德｜精酿/"}
+{"dg-publish":true,"permalink":"/xhs/gellert-bar/","tags":["rednote","下诺夫哥罗德"]}
 ---
 
 作者：kumori

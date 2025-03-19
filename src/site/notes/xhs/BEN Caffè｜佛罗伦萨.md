@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/BEN Caffè｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/ben-caffe/"}
 ---
 
 作者：kumori

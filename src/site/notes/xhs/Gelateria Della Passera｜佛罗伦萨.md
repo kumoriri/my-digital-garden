@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Gelateria Della Passera｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/gelateria-della-passera/"}
 ---
 
 作者：kumori

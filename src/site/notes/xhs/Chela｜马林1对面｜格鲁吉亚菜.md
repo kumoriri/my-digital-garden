@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Chela｜马林1对面｜格鲁吉亚菜/"}
+{"dg-publish":true,"permalink":"/xhs/chela-1/"}
 ---
 
 作者：kumori

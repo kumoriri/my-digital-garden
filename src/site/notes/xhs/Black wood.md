@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Black wood/"}
+{"dg-publish":true,"permalink":"/xhs/black-wood/"}
 ---
 
 作者：kumori

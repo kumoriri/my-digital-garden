@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Arume Restaurant｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/arume-restaurant/"}
 ---
 
 作者：kumori

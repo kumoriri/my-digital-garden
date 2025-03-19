@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Lee's Food｜下诺夫哥罗德/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/lee-s-food/","tags":["rednote"]}
 ---
 
 作者：kumori

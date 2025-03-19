@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Verlé｜彼得格勒/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/verle/","tags":["rednote"]}
 ---
 
 作者：kumori
