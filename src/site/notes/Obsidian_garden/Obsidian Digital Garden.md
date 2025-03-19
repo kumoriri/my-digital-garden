@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian_garden/Obsidian Digital Garden/","tags":["garden","rednote","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Obsidian_garden/Obsidian Digital Garden/","tags":["garden","rednote","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 Commend+P
