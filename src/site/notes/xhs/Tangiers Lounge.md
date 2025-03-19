@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/tangiers-lounge/"}
+{"dg-publish":true,"permalink":"/xhs/tangiers-lounge/","tags":["rednote","圣彼得堡"]}
 ---
 
 作者：kumori
