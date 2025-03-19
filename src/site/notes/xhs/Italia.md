@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Italia/"}
+{"dg-publish":true,"permalink":"/xhs/italia/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Любовь gastrobistro｜莫斯科｜红场/"}
+{"dg-publish":true,"permalink":"/xhs/lyubov-gastrobistro/"}
 ---
 
 作者：kumori

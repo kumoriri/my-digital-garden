@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Granja M. Viader｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/granja-m-viader/"}
 ---
 
 作者：kumori

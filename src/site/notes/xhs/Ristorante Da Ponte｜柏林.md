@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Ristorante Da Ponte｜柏林/"}
+{"dg-publish":true,"permalink":"/xhs/ristorante-da-ponte/"}
 ---
 
 作者：kumori

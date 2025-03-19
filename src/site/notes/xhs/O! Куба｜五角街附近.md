@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/O! Куба｜五角街附近/"}
+{"dg-publish":true,"permalink":"/xhs/o-kuba/"}
 ---
 
 作者：kumori

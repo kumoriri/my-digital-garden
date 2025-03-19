@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Oblate Cafeteria｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/oblate-cafeteria/"}
 ---
 
 作者：kumori

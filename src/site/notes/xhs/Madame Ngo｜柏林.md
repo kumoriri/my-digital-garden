@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Madame Ngo｜柏林/"}
+{"dg-publish":true,"permalink":"/xhs/madame-ngo/"}
 ---
 
 作者：kumori

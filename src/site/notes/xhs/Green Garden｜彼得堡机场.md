@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Green Garden｜彼得堡机场/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/green-garden/","tags":["rednote","圣彼得堡"]}
 ---
 
 作者：kumori

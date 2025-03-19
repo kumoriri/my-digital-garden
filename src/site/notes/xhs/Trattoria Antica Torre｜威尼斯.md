@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Trattoria Antica Torre｜威尼斯/"}
+{"dg-publish":true,"permalink":"/xhs/trattoria-antica-torre/"}
 ---
 
 作者：kumori

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Tapiera｜瓦西里地铁站附近/"}
+{"dg-publish":true,"permalink":"/xhs/tapiera/"}
 ---
 
 作者：kumori

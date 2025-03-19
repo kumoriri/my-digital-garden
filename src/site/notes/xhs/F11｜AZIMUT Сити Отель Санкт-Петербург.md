@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/F11｜AZIMUT Сити Отель Санкт-Петербург/"}
+{"dg-publish":true,"permalink":"/xhs/f11-azimut-siti-otel-sankt-peterburg/"}
 ---
 
 作者：kumori

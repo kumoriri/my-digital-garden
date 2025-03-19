@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Casa Lolea Barcelona｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/casa-lolea-barcelona/"}
 ---
 
 作者：kumori

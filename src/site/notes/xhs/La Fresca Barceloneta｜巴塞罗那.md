@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/La Fresca Barceloneta｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/la-fresca-barceloneta/"}
 ---
 
 作者：kumori

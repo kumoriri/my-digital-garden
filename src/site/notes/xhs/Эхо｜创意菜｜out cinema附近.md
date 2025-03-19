@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Эхо｜创意菜｜out cinema附近/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/eho-out-cinema/","tags":["rednote"]}
 ---
 
 

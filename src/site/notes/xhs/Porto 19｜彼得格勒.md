@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Porto 19｜彼得格勒/"}
+{"dg-publish":true,"permalink":"/xhs/porto-19/"}
 ---
 
 作者：kumori

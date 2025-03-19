@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Horosho Bar｜Невский центр附近/"}
+{"dg-publish":true,"permalink":"/xhs/horosho-bar-nevskij-czentr/"}
 ---
 
 作者：kumori

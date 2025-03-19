@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Hiro izakaya｜Бертгольд центр｜日料/","tags":["rednote"]}
+{"dg-publish":true,"permalink":"/xhs/hiro-izakaya-bertgold-czentr/","tags":["rednote"]}
 ---
 
 作者：kumori

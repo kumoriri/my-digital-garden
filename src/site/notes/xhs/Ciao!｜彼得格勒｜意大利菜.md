@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Ciao!｜彼得格勒｜意大利菜/","tags":["rednote","圣彼得堡"]}
+{"dg-publish":true,"permalink":"/xhs/ciao/","tags":["rednote","圣彼得堡"]}
 ---
 
 

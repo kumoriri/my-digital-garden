@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Wong Kar Wine 王家卫/"}
+{"dg-publish":true,"permalink":"/xhs/wong-kar-wine/"}
 ---
 
 作者：kumori

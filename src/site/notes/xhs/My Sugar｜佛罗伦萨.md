@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/My Sugar｜佛罗伦萨/"}
+{"dg-publish":true,"permalink":"/xhs/my-sugar/"}
 ---
 
 作者：kumori

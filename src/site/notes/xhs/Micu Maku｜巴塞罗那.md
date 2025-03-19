@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/Micu Maku｜巴塞罗那/"}
+{"dg-publish":true,"permalink":"/xhs/micu-maku/"}
 ---
 
 作者：kumori
