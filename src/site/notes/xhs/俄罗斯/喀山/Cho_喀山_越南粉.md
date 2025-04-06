@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/喀山/Cho_喀山_越南粉/","tags":["rednote","喀山"],"created":"2025-03-17T18:24:24.641+08:00","updated":"2025-03-20T22:46:14.377+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/喀山/Cho_喀山_越南粉/","tags":["rednote","喀山"],"updated":"2025-03-30T20:38:16.973+08:00"}
 ---
 
  

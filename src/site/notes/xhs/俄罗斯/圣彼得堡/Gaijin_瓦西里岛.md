@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Gaijin_瓦西里岛/","tags":["rednote"],"created":"2025-03-17T18:31:16.649+08:00","updated":"2025-03-20T22:46:14.528+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Gaijin_瓦西里岛/","tags":["rednote"],"updated":"2025-03-30T20:40:27.842+08:00"}
 ---
 
  
@@ -16,7 +16,7 @@
 
 
 ---
-dg-publish: true
+dg-publish: "true"
 tags:
   - rednote
   - 圣彼得堡

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/德国/柏林/annelies_柏林/","tags":["rednote","柏林"],"created":"2025-03-17T22:10:01.239+08:00","updated":"2025-03-20T22:46:14.832+08:00"}
+{"dg-publish":true,"permalink":"/xhs/德国/柏林/annelies_柏林/","tags":["rednote","柏林"],"updated":"2025-03-30T20:40:27.879+08:00"}
 ---
 
  

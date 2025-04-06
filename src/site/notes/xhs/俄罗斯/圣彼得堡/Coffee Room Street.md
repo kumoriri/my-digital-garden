@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Coffee Room Street/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:12:58.679+08:00","updated":"2025-03-20T22:46:14.551+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Coffee Room Street/","tags":["rednote","圣彼得堡"],"updated":"2025-03-30T20:40:27.846+08:00"}
 ---
 
  
@@ -14,7 +14,7 @@ https://www.coffeeroomspb.com/menucoworking/
 
 > 菜单
 ---
-dg-publish: true
+dg-publish: "true"
 tags:
   - rednote
   - 圣彼得堡
@@ -38,7 +38,7 @@ p最后 二维码菜单
 
 https://www.coffeeroomspb.com
 ---
-dg-publish: true
+dg-publish: "true"
 tags:
   - rednote
   - 圣彼得堡

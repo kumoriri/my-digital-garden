@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/日本/东京/Glitch Coffee and Roasters GINZA_东京/","tags":["rednote","东京"],"created":"2025-03-17T23:04:08.562+08:00","updated":"2025-03-21T00:00:56.195+08:00"}
+{"dg-publish":true,"permalink":"/xhs/日本/东京/Glitch Coffee and Roasters GINZA_东京/","tags":["rednote","东京"],"created":"2024-09-18","updated":"2025-04-04T20:27:35.482+08:00"}
 ---
 
 #咖啡
@@ -13,8 +13,6 @@
 
 [xhs](https://www.xiaohongshu.com/explore/66f0524600000000270013d5?xsec_token=ABqW31iXGaeLgX03LCtKxC-qiw8RAvfpq2ykwqXUu04Vw=&xsec_source=pc_user)
 
-评论区：===========
-
-青岛喝了一次同款豆子（大概） 不过说是西瓜味 菜单上没有 我喝起来像是蜜瓜 比日本那次更明显 可能这次喝的是热的
+*青岛喝了一次同款豆子（大概） 不过说是西瓜味 菜单上没有 我喝起来像是蜜瓜 比日本那次更明显 可能这次喝的是热的
 
 〒104-0061 東京都中央区銀座４丁目１４−８ VORT銀座イーストIII 1階

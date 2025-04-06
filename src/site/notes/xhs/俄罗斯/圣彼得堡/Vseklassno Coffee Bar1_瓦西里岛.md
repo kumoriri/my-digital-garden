@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Vseklassno Coffee Bar1_瓦西里岛/","tags":["rednote"],"created":"2025-03-17T18:23:11.166+08:00","updated":"2025-03-20T22:46:14.392+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Vseklassno Coffee Bar1_瓦西里岛/","tags":["rednote"],"updated":"2025-03-30T20:40:27.817+08:00"}
 ---
 
  
@@ -45,7 +45,7 @@ Banoffee pie 英式派
 
 > 是！我爱这家嘿嘿 夏天就想坐外面（but国内会热！
 ---
-dg-publish: true
+dg-publish: "true"
 tags:
   - rednote
   - 圣彼得堡

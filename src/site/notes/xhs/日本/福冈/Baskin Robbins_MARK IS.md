@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/日本/福冈/Baskin Robbins_MARK IS/","tags":["rednote","福冈"],"created":"2025-03-17T23:01:33.657+08:00","updated":"2025-03-23T16:30:49.022+08:00"}
+{"dg-publish":true,"permalink":"/xhs/日本/福冈/Baskin Robbins_MARK IS/","tags":["rednote","福冈"],"created":"2024-09-14","updated":"2025-03-23T16:30:49.022+08:00"}
 ---
 
 #冰激凌

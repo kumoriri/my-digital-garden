@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Chang Cafe1_咖喱列附近/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T21:59:53.846+08:00","updated":"2025-03-20T22:46:14.519+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Chang Cafe1_咖喱列附近/","tags":["rednote","圣彼得堡"],"updated":"2025-03-30T20:38:46.208+08:00"}
 ---
 
  

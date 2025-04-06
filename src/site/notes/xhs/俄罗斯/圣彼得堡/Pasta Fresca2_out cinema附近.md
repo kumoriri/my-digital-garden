@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Pasta Fresca2_out cinema附近/","tags":["rednote","圣彼得堡"],"created":"2025-03-17T22:30:55.548+08:00","updated":"2025-03-20T22:46:14.647+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/圣彼得堡/Pasta Fresca2_out cinema附近/","tags":["rednote","圣彼得堡"],"updated":"2025-03-20T22:46:14.647+08:00"}
 ---
 
  

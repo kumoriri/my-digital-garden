@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/下诺夫哥罗德/Mola Mola Coffee_下诺夫哥罗德/","tags":["rednote","下诺夫哥罗德"],"created":"2025-03-17T18:30:01.155+08:00","updated":"2025-03-20T22:46:14.682+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/下诺夫哥罗德/Mola Mola Coffee_下诺夫哥罗德/","tags":["rednote","下诺夫哥罗德"],"updated":"2025-03-30T20:40:27.745+08:00"}
 ---
 
  
@@ -25,7 +25,7 @@ p4 从左到右（中间杯子logo是店logo）
 
 https://t.me/molabrera
 ---
-dg-publish: true
+dg-publish: "true"
 tags:
   - rednote
   - 下诺夫哥罗德

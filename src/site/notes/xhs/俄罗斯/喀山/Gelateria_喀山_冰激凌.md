@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/喀山/Gelateria_喀山_冰激凌/","tags":["rednote","喀山"],"created":"2025-03-17T18:25:03.082+08:00","updated":"2025-03-20T22:46:14.375+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/喀山/Gelateria_喀山_冰激凌/","tags":["rednote","喀山"],"updated":"2025-03-30T20:38:17.781+08:00"}
 ---
 
  

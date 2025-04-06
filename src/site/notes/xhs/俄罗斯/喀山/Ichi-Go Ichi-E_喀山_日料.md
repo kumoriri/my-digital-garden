@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/喀山/Ichi-Go Ichi-E_喀山_日料/","tags":["rednote","喀山"],"created":"2025-03-17T18:24:14.426+08:00","updated":"2025-03-20T22:46:14.375+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/喀山/Ichi-Go Ichi-E_喀山_日料/","tags":["rednote","喀山"],"updated":"2025-03-30T20:38:18.443+08:00"}
 ---
 
  
