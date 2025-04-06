@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/意大利/佛罗伦萨/Antica Posta B&B_佛罗伦萨/","tags":["rednote","佛罗伦萨"],"created":"2025-03-17T22:01:11.483+08:00","updated":"2025-03-20T22:46:14.758+08:00"}
+{"dg-publish":true,"permalink":"/xhs/意大利/佛罗伦萨/Antica Posta B&B_佛罗伦萨/","tags":["rednote","佛罗伦萨"],"updated":"2025-03-30T20:40:27.878+08:00"}
 ---
 
  

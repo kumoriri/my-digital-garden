@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/日本/福冈/The Full Full Hakata/","tags":["rednote","福冈"],"created":"2025-03-20T23:34:52.484+08:00","updated":"2025-03-23T16:29:23.060+08:00"}
+{"dg-publish":true,"permalink":"/xhs/日本/福冈/The Full Full Hakata/","tags":["rednote","福冈"],"created":"2024-09-12","updated":"2025-03-23T16:29:23.060+08:00"}
 ---
 
 #面包

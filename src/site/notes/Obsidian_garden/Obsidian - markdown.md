@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian_garden/Obsidian - markdown/","tags":["markdown","obsidian"],"updated":"2025-03-17T21:04:16.097+08:00"}
+{"dg-publish":true,"permalink":"/Obsidian_garden/Obsidian - markdown/","tags":["markdown","obsidian","garden"],"updated":"2025-04-06T14:44:33.104+08:00"}
 ---
 
 obsidian://open?vault=Python&file=Obsidian%20-%20markdown

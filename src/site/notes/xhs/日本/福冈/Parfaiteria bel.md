@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/日本/福冈/Parfaiteria bel/","tags":["rednote","福冈"],"created":"2025-03-17T23:00:57.806+08:00","updated":"2025-03-23T16:29:41.757+08:00"}
+{"dg-publish":true,"permalink":"/xhs/日本/福冈/Parfaiteria bel/","tags":["rednote","福冈"],"created":"2024-09-12","updated":"2025-04-04T21:17:31.235+08:00"}
 ---
 
 #芭菲
+
 深夜芭菲体验一下w点了十五夜
 总体有点甜，里面有芝士蛋糕。还好我点了咖啡。但真的很可爱，还有尾巴呢！
 ![Attachment 1341.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo/Attachment%201341.jpeg)

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/西班牙/巴塞罗那/Casa Lolea Barcelona_巴塞罗那/","tags":["rednote","巴塞罗那"],"created":"2025-03-17T22:08:22.498+08:00","updated":"2025-03-20T22:46:14.738+08:00"}
+{"dg-publish":true,"permalink":"/xhs/西班牙/巴塞罗那/Casa Lolea Barcelona_巴塞罗那/","tags":["rednote","巴塞罗那"],"updated":"2025-03-30T20:40:27.848+08:00"}
 ---
 
+date: 
  
 
 COPA SANGRIA BRUT 桑格利亚3号 说是比较dry，酒味会浓一些，推荐了2和3，（2号更甜）都是起泡酒（机场有卖）
@@ -18,7 +19,8 @@ MONTADITO FOIE MICUI 鹅肝
 
 
 ---
-dg-publish: true
+date: 
+dg-publish: "true"
 tags:
   - rednote
   - 巴塞罗那

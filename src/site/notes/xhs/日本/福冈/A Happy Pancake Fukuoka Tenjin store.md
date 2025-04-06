@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/日本/福冈/A Happy Pancake Fukuoka Tenjin store/","tags":["rednote","福冈"],"created":"2025-03-20T23:35:20.106+08:00","updated":"2025-03-23T16:28:56.161+08:00"}
+{"dg-publish":true,"permalink":"/xhs/日本/福冈/A Happy Pancake Fukuoka Tenjin store/","tags":["rednote","福冈"],"created":"2024-09-12","updated":"2025-03-23T16:28:56.161+08:00"}
 ---
 
 #松饼

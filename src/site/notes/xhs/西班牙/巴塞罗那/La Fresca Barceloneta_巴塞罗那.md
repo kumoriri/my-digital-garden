@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/西班牙/巴塞罗那/La Fresca Barceloneta_巴塞罗那/","tags":["rednote","巴塞罗那"],"created":"2025-03-17T22:06:30.521+08:00","updated":"2025-03-20T22:46:14.738+08:00"}
+{"dg-publish":true,"permalink":"/xhs/西班牙/巴塞罗那/La Fresca Barceloneta_巴塞罗那/","tags":["rednote","巴塞罗那"],"updated":"2025-03-30T20:40:27.848+08:00"}
 ---
 
  

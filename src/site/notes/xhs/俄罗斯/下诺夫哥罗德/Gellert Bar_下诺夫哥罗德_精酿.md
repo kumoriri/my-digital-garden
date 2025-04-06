@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/俄罗斯/下诺夫哥罗德/Gellert Bar_下诺夫哥罗德_精酿/","tags":["rednote","下诺夫哥罗德"],"created":"2025-03-17T23:12:21.473+08:00","updated":"2025-03-20T22:46:14.688+08:00"}
+{"dg-publish":true,"permalink":"/xhs/俄罗斯/下诺夫哥罗德/Gellert Bar_下诺夫哥罗德_精酿/","tags":["rednote","下诺夫哥罗德"],"updated":"2025-03-20T22:46:14.688+08:00"}
 ---
 
  
