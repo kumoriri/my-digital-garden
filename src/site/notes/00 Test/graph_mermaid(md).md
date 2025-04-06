@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00 Test/graph_mermaid(md)/","tags":["garden","learn","markdown"],"updated":"2025-04-06T17:26:40.798+08:00"}
+{"dg-publish":true,"permalink":"/00 Test/graph_mermaid(md)/","tags":["garden","learn","markdown"],"updated":"2025-04-06T17:59:50.378+08:00"}
 ---
 
 #markdown 
@@ -40,10 +40,14 @@ gantt
 classDiagram
     class 动物 {
         +String 名字
+        +int 年龄
         +void 叫()
+        +void 吃()
     }
     class 狗 {
+        +String 品种
         +void 摇尾巴()
+        +void 叫()  // 重写父类方法
     }
     动物 <|-- 狗
 ```
