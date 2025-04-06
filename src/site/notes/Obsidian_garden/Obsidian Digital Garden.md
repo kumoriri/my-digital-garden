@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry","gardenEntry"],"updated":"2025-04-06T14:46:08.404+08:00"}
+{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry"],"updated":"2025-04-06T17:02:11.983+08:00"}
 ---
 
 ![food2.png](/img/user/Obsidian_garden/food2.png)
+[[Obsidian_garden/Obsidian - markdown\|Obsidian - markdown]]
 [[00 Test/Wordpress\|Wordpress]]
 [[Obsidian_garden/nographic\|nographic]]
 [[00 Test/Git/DS_Store\|DS_Store]]
 [[00 Test/Mac sips 调整文件大小\|Mac sips 调整文件大小]]
-[[Obsidian_garden/Obsidian - markdown\|Obsidian - markdown]]
 
-[[xhs/美食导航\|美食导航]]
 
 ## 福冈：
 |店舗名|訪問日|
