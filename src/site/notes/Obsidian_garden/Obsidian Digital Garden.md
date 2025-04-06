@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry"],"updated":"2025-04-06T14:46:08.404+08:00"}
+{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry","gardenEntry"],"updated":"2025-04-06T14:46:08.404+08:00"}
 ---
 
 ![food2.png](/img/user/Obsidian_garden/food2.png)
