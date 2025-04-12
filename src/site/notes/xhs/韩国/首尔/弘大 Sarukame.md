@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/韩国/首尔/弘大 Sarukame/","tags":["rednote","首尔"],"created":"2024-11-","updated":"2025-04-04T21:55:59.401+08:00"}
+{"dg-publish":true,"permalink":"/xhs/韩国/首尔/弘大 Sarukame/","tags":["rednote","首尔"],"created":"2024-11-14","updated":"2025-04-12T17:05:51.062+08:00"}
 ---
 
  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/韩国/首尔/圣水 Bake Mogul/","tags":["rednote","首尔"],"created":"2024-09-12","updated":"2025-04-04T22:05:37.910+08:00"}
+{"dg-publish":true,"permalink":"/xhs/韩国/首尔/圣水 Bake Mogul/","tags":["rednote","首尔"],"created":"2024-11-11","updated":"2025-04-12T16:50:10.964+08:00"}
 ---
 
 #面包/贝果

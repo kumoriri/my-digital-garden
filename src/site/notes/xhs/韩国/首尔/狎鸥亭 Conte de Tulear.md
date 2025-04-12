@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/韩国/首尔/狎鸥亭 Conte de Tulear/","tags":["rednote","首尔"],"created":"2024-11-","updated":"2025-04-04T21:59:56.936+08:00"}
+{"dg-publish":true,"permalink":"/xhs/韩国/首尔/狎鸥亭 Conte de Tulear/","tags":["rednote","首尔"],"created":"2024-11-11","updated":"2025-04-12T17:21:19.869+08:00"}
 ---
 
 #狎鸥亭 #branch
@@ -8,5 +8,8 @@
 
 ![Attachment 1270.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Attachment%201270.jpeg)
 
+![IMG_0248.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0248.HEIC.jpeg)
 
 ![Attachment 1271.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Attachment%201271.jpeg)
+
+![IMG_0992.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0992.HEIC.jpeg)

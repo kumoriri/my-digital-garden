@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/韩国/首尔/圣水 Maison De Margarett/","tags":["rednote","首尔"],"created":"2024-11-","updated":"2025-04-04T21:58:51.853+08:00"}
+{"dg-publish":true,"permalink":"/xhs/韩国/首尔/圣水 Maison De Margarett/","tags":["rednote","首尔"],"created":"2024-11-14","updated":"2025-04-12T16:48:09.888+08:00"}
 ---
 
  

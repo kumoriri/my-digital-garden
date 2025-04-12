@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/韩国/首尔/圣水 Nemone/","tags":["rednote","首尔"],"created":"2024-11-","updated":"2025-04-04T22:01:08.174+08:00"}
+{"dg-publish":true,"permalink":"/xhs/韩国/首尔/圣水 Nemone/","tags":["rednote","首尔"],"created":"2024-11-11","updated":"2025-04-12T16:46:02.684+08:00"}
 ---
 
 #圣水 #咖啡
