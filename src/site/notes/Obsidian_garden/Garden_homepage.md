@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry","gardenEntry"],"updated":"2025-04-12T21:42:19.622+08:00"}
+{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry"],"updated":"2025-04-12T22:28:39.702+08:00"}
 ---
 
 ![food2.png](/img/user/Obsidian_garden/food2.png)
@@ -11,7 +11,8 @@
 [[00 Test/第一篇笔记\|第一篇笔记]]
 
 
-## 福冈：
+# 日本
+## 福冈
 |店舗名|訪問日|
 |------|------|
 |[[xhs/日本/福冈/いくら博多店 はんばーぐとおむらいすのお店\|いくら博多店 はんばーぐとおむらいすのお店]]|2024-09-11|
@@ -29,7 +30,7 @@
 
 
 
-## 东京：
+## 东京
 |店舗名|訪問日|
 |---|---|
 |[[xhs/日本/东京/えびそば一幻_八重洲地下街\|えびそば一幻_八重洲地下街]]|2024-09-15|
@@ -47,7 +48,7 @@
 
 # 韩国
 ## 首尔
-| 店舗名27                                   | 訪問日     |
+| 店舗名                                   | 訪問日     |
 | ------------------------------------------ | ---------- |
 | [[xhs/韩国/首尔/弘大 Jo&Dawson\|弘大 Jo&Dawson]]                         | 2024-09-07 |
 | [[xhs/韩国/首尔/弘大 자연도소금빵in연남_盐面包\|弘大 자연도소금빵in연남_盐面包]]         | 2024-09-07 |
