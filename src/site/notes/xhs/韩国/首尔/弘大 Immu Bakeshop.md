@@ -15,4 +15,4 @@
 地址：
 [서울 마포구 양화로6길 57-13 2층 202호](https://pcmap.place.naver.com/restaurant/1280914854/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202504121616&locale=ko&svcName=map_pcv5&searchText=%20Immu%20Bakeshop#)
 
-![Pasted image 20250412161704.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/Pasted%20image%2020250412161704.png)
+![Pasted image 20250412161704.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250412161704.png)

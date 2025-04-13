@@ -6,9 +6,9 @@
 
 点了夏日晴王限定，很好吃，不腻，还想再吃的程度，就是量有点大ww
 
-![240912_pancake2.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo/240912_pancake2.jpeg)
+![240912_pancake2.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo-%E7%A6%8F%E5%86%88/240912_pancake2.jpeg)
 
-![240912_pancake.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo/240912_pancake.jpeg)
+![240912_pancake.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo-%E7%A6%8F%E5%86%88/240912_pancake.jpeg)
 
 〒810-0001 Fukuoka, Chuo Ward, Tenjin, 2 Chome−7−12 吉富ビル 2階
 

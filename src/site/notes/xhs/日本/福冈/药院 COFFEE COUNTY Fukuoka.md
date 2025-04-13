@@ -8,16 +8,16 @@
 点了kenya的冰手冲，很清爽的酸（其实有点记不清了）很好喝。
 可惜没点kasiki冰激凌ㅠㅠ，去东京又懒得单独去ㅠㅠ，后悔desu
 
-![Attachment 1348.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo/Attachment%201348.jpeg)
+![Attachment 1348.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo-%E7%A6%8F%E5%86%88/Attachment%201348.jpeg)
 <center>Kenya冰手冲 冰咖践行到底</center>
 
-![Attachment 1349.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo/Attachment%201349.jpeg)
+![Attachment 1349.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo-%E7%A6%8F%E5%86%88/Attachment%201349.jpeg)
 <center>小蛋糕挺不错的！是介于布丁和芝士蛋糕之间的口感🥺</center>
 
-![Attachment 1350.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo/Attachment%201350.jpeg)
+![Attachment 1350.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo-%E7%A6%8F%E5%86%88/Attachment%201350.jpeg)
 <center>买了喝的豆子送人 点一杯+豆子还有点优惠</center>
 
-![240914_COFFEE_COUNTY.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo/240914_COFFEE_COUNTY.jpeg)
+![240914_COFFEE_COUNTY.jpeg](/img/user/xhs/%E6%97%A5%E6%9C%AC/%E7%A6%8F%E5%86%88/photo-%E7%A6%8F%E5%86%88/240914_COFFEE_COUNTY.jpeg)
 
 
 1 Chome-21-21 Takasago, Chuo Ward, Fukuoka, 810-0011

@@ -25,6 +25,6 @@
 地址：
 [서울 마포구 동교로29길 34 1, 2층](https://pcmap.place.naver.com/restaurant/1725424338/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202504121620&locale=ko&svcName=map_pcv5&searchText=Avek%20Cheri%20the%20park#)
 
-![Pasted image 20250412162128.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/Pasted%20image%2020250412162128.png)
+![Pasted image 20250412162128.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250412162128.png)
 
 http://www.avekcheri.com/

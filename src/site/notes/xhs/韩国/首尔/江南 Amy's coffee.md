@@ -13,7 +13,7 @@ txt our story rediscovered播出后第二天去的。和防弹那家餐厅离得
 <center>香蕉谷物奶</center>
 <center>意外的好喝，没有我想象的那么甜，味道挺不错</center>
 
-![IMG_0715.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0715.HEIC.jpeg)
+![IMG_0715.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/IMG_0715.HEIC.jpeg)
 <center>春喜欢</center>
 
 ![Attachment 1258.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Attachment%201258.jpeg)
@@ -25,7 +25,7 @@ txt our story rediscovered播出后第二天去的。和防弹那家餐厅离得
 地址：
 [서울 강남구 도산대로26길 11](https://pcmap.place.naver.com/restaurant/32587866/home?from=map&fromPanelNum=2&timestamp=202504131708&locale=ko&svcName=map_pcv5&searchText=Amy%27s%20coffee#)
 
-![Pasted image 20250413170905.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/Pasted%20image%2020250413170905.png)
+![Pasted image 20250413170905.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250413170905.png)
 
 
 [xhs](https://www.xiaohongshu.com/explore/673b81b6000000000202a6b5?xsec_token=ABedlK0mJpHKXVhHhsR_CTJu9bVoXVgecLOjyfpaQQIxo=&xsec_source=pc_user)
