@@ -6,9 +6,9 @@
 
 ak플라자算是我去过最的地方了，应有尽有
 
-![IMG_0733.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0733.HEIC.jpeg)
+![IMG_0733.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/IMG_0733.HEIC.jpeg)
 
-![IMG_0735.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0735.HEIC.jpeg)
+![IMG_0735.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/IMG_0735.HEIC.jpeg)
 玉桂狗主题餐厅，在二楼，去的那一桌有人落下一个杯垫，还挺可爱的，希望好心人带走吧
 旁边一桌两位一身黑的俄罗斯人ww刻板印象🈶
 
@@ -18,6 +18,6 @@ ak플라자算是我去过最的地方了，应有尽有
 
 14号夜宵试了试小浣熊：
 
-![IMG_0765.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0765.HEIC.jpeg)
+![IMG_0765.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/IMG_0765.HEIC.jpeg)
 
-![IMG_0766.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0766.HEIC.jpeg)
+![IMG_0766.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/IMG_0766.HEIC.jpeg)

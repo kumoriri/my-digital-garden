@@ -20,4 +20,4 @@
 地址：
 [서울 마포구 독막로6길 14](https://pcmap.place.naver.com/restaurant/814481697/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202504121627&locale=ko&svcName=map_pcv5#)
 
-![Pasted image 20250412163436.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/Pasted%20image%2020250412163436.png)
+![Pasted image 20250412163436.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250412163436.png)

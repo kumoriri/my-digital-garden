@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/韩国/首尔/汝矣岛 现代百货 HyunDaiSeoul/","tags":["rednote","首尔"],"created":"2024-11-12","updated":"2025-04-13T16:43:16.545+08:00"}
+{"dg-publish":true,"permalink":"/xhs/韩国/首尔/汝矣岛 现代百货 HyunDaiSeoul/","tags":["rednote","首尔"],"created":"2024-11-12","updated":"2025-04-13T21:28:21.937+08:00"}
 ---
 
 
@@ -11,10 +11,10 @@
 
 买了蕃茄味的碱水结，很好吃！但是因为是奶油有点多，一整个吃完的话有点腻，一半的话是正好的程度。
 
-![IMG_0454.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0454.HEIC.jpeg)
+![IMG_0454.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/IMG_0454.HEIC.jpeg)
 蓝瓶子-第二杯（汤咖喱前还喝了一杯，忘记点了啥，反正都是手冲）
 
-![IMG_0447.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/IMG_0447.HEIC.jpeg)
+![IMG_0447.HEIC.jpeg](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/IMG_0447.HEIC.jpeg)
 <center>可爱小熊</center>
 
 还看到有一家快开了的London bagel museum，被北京那个纽约的难吃到，查了才发现不是一家啊.jpg
@@ -27,3 +27,5 @@
 
 地址：
 [서울 영등포구 여의대로 108 더현대 서울](https://pcmap.place.naver.com/place/1386302181/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202504131642&locale=ko&svcName=map_pcv5&searchText=HyunDaiSeoul#)
+
+![Pasted image 20250413212820.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250413212820.png)

@@ -19,6 +19,6 @@
 地址：
 [서울 성동구 서울숲2길 17 베이크모굴](https://pcmap.place.naver.com/restaurant/1242865070/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202504131559&locale=ko&svcName=map_pcv5&searchText=Bake%20Mogul#)
 
-![Pasted image 20250413160007.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/Pasted%20image%2020250413160007.png)
+![Pasted image 20250413160007.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250413160007.png)
 
 [xhs](https://www.xiaohongshu.com/explore/673db6d3000000000201ba0c?xsec_token=ABjrCDuXU4bSUOyCFMk3cMWqgjXHZduyrFxUdoC5fdqkw=&xsec_source=pc_user)

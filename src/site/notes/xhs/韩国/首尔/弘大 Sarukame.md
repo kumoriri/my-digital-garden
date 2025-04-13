@@ -19,7 +19,7 @@
 地址：
 [서울 마포구 연남로 15 1층](https://pcmap.place.naver.com/restaurant/1763607050/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202504131703&locale=ko&svcName=map_pcv5&searchText=SaruKame#)
 
-![Pasted image 20250413170349.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/Pasted%20image%2020250413170349.png)
+![Pasted image 20250413170349.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250413170349.png)
 
 [xhs](https://www.xiaohongshu.com/explore/673b8c7c000000000202b585?xsec_token=ABedlK0mJpHKXVhHhsR_CTJjORPtiMyLOT1VuixhSEl2o=&xsec_source=pc_user)
 

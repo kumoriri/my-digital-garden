@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xhs/韩国/首尔/圣水 Nemone/","tags":["rednote","首尔"],"created":"2024-11-11","updated":"2025-04-13T16:27:44.295+08:00"}
+{"dg-publish":true,"permalink":"/xhs/韩国/首尔/圣水 Nemone/","tags":["rednote","首尔"],"created":"2024-11-11","updated":"2025-04-13T21:28:37.563+08:00"}
 ---
 
 #圣水 #咖啡 #甜品 
@@ -32,8 +32,6 @@
 地址：
 [서울 성동구 상원2길 6 1층, B1층](https://pcmap.place.naver.com/restaurant/1529218208/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202504131618&locale=ko&svcName=map_pcv5&searchText=NeMone#)
 
-![Pasted image 20250413161947.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/Pasted%20image%2020250413161947.png)
+![Pasted image 20250413161947.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250413161947.png)
 
 [xhs](https://www.xiaohongshu.com/explore/673b80e80000000002018b98?xsec_token=ABedlK0mJpHKXVhHhsR_CTJvZ2ZXg3tBfNsDnOntPXlxk=&xsec_source=pc_user)
-
-

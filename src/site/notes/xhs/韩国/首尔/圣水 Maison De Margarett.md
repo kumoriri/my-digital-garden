@@ -18,4 +18,4 @@
 地址：
 [서울 성동구 연무장3길 14](https://pcmap.place.naver.com/restaurant/1460780062/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202504131658&locale=ko&svcName=map_pcv5&searchText=%EB%A9%94%EC%A2%85%EB%93%9C%EB%A7%88%EA%B0%80%EB%A0%88%EB%9C%A8#)
 
-![Pasted image 20250413165827.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/attachments/Pasted%20image%2020250413165827.png)
+![Pasted image 20250413165827.png](/img/user/xhs/%E9%9F%A9%E5%9B%BD/%E9%A6%96%E5%B0%94/photo-%E9%A6%96%E5%B0%94/Pasted%20image%2020250413165827.png)
