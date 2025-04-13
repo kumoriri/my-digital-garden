@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry","gardenEntry"],"updated":"2025-04-12T22:28:39.702+08:00"}
+{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry"],"updated":"2025-04-13T16:51:51.993+08:00"}
 ---
 
 ![food2.png](/img/user/Obsidian_garden/food2.png)
@@ -71,10 +71,10 @@
 | [[xhs/韩国/首尔/圣水 Nemone\|圣水 Nemone]]                            | 2024-11-11 |
 | [[xhs/韩国/首尔/狎鸥亭 Conte de Tulear\|狎鸥亭 Conte de Tulear]]                 | 2024-11-11 |
 | [[xhs/韩国/首尔/弘大 Sekai No Hate No Ramen\|弘大 Sekai No Hate No Ramen]]            | 2024-11-12 |
-| [[xhs/韩国/首尔/汝矣岛百货\|汝矣岛百货]]                             | 2024-11-12 |
+| [[xhs/韩国/首尔/汝矣岛 现代百货 HyunDaiSeoul\|汝矣岛 现代百货 HyunDaiSeoul]]                             | 2024-11-12 |
 | [[xhs/韩国/首尔/弘大 Suage Hokkaido Soup Curry\|弘大 Suage Hokkaido Soup Curry]]         | 2024-11-13 |
 | [[xhs/韩国/首尔/圣水 Maison De Margarett\|圣水 Maison De Margarett]]               | 2024-11-14 |
-| [[xhs/韩国/首尔/弘大 AK 玉桂狗主题咖啡\|弘大 AK 玉桂狗主题咖啡]]                 | 2024-11-14 |
+| [[xhs/韩国/首尔/弘大 AKplaza 玉桂狗主题咖啡\|弘大 AKplaza 玉桂狗主题咖啡]]                 | 2024-11-14 |
 | [[xhs/韩国/首尔/弘大 Sarukame\|弘大 Sarukame]]                          | 2024-11-14 |
 | [[xhs/韩国/首尔/江南 Amy's coffee\|江南 Amy's coffee]]                      | 2024-11-14 |
 
