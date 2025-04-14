@@ -1,50 +1,43 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","rednote","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"updated":"2025-04-13T21:55:40.308+08:00"}
+{"dg-publish":true,"dg-permalink":"\"obsidian-digital-garden-main\"","permalink":"/\"obsidian-digital-garden-main\"/","tags":["garden","homepage","gardenEntry"],"updated":"2025-04-14T19:50:21.181+08:00"}
 ---
 
-![food2.png](/img/user/Obsidian_garden/food2.png)
-[[00 Test/Obsidian - markdown\|Obsidian - markdown]]
-[[00 Test/Wordpress\|Wordpress]]
-[[00 Test/nographic\|nographic]]
-[[00 Test/Git/DS_Store\|DS_Store]]
-[[00 Test/Mac sips 调整文件大小\|Mac sips 调整文件大小]]
-[[00 Test/第一篇笔记\|第一篇笔记]]
 
+# 其他
+[[Obsidian_garden/Garden_others\|Garden_others]]
+[[xhs/美食导航\|美食导航]]
 
 # 日本
 ## 福冈
-|店舗名|訪問日|
-|------|------|
-|[[xhs/日本/福冈/栉田神社前 いくら博多店\|栉田神社前 いくら博多店]]|2024-09-11|
-|[[xhs/日本/福冈/天神 A Happy Pancake Fukuoka\|天神 A Happy Pancake Fukuoka]]|2024-09-12|
-|[[xhs/日本/福冈/天神南 Parfaiteria bel\|天神南 Parfaiteria bel]]|2024-09-12|
-|[[xhs/日本/福冈/栉田神社前 The Full Full Hakata\|栉田神社前 The Full Full Hakata]]|2024-09-12|
-|[[xhs/日本/福冈/栉田神社前 うお田\|栉田神社前 うお田]]|2024-09-12|
-|[[xhs/日本/福冈/天神南 らぁ麺 なお人\|天神南 らぁ麺 なお人]]|2024-09-13|
-|[[xhs/日本/福冈/六本松 珈琲美美\|六本松 珈琲美美]]|2024-09-13|
-|[[xhs/日本/福冈/天神 麺や兼虎\|天神 麺や兼虎]]|2024-09-13|
-|[[xhs/日本/福冈/Baskin Robbins_MARK IS\|Baskin Robbins_MARK IS]]|2024-09-14|
-|[[xhs/日本/福冈/药院 COFFEE COUNTY Fukuoka\|药院 COFFEE COUNTY Fukuoka]]|2024-09-14|
-|[[xhs/日本/福冈/博多站 元祖博多めんたい重\|博多站 元祖博多めんたい重]]|2024-09-15|
-|[[xhs/日本/福冈/博多站 如水庵\|博多站 如水庵]]|2024-09-15|
-
-
+| 店舗名                              | 訪問日     |
+| ----------------------------------- | ---------- |
+| [[xhs/日本/福冈/栉田神社前 いくら博多店\|栉田神社前 いくら博多店]]         | 2024-09-11 |
+| [[xhs/日本/福冈/天神 A Happy Pancake Fukuoka\|天神 A Happy Pancake Fukuoka]]    | 2024-09-12 |
+| [[xhs/日本/福冈/天神南 Parfaiteria bel\|天神南 Parfaiteria bel]]          | 2024-09-12 |
+| [[xhs/日本/福冈/栉田神社前 The Full Full Hakata\|栉田神社前 The Full Full Hakata]] | 2024-09-12 |
+| [[xhs/日本/福冈/栉田神社前 うお田\|栉田神社前 うお田]]               | 2024-09-12 |
+| [[xhs/日本/福冈/天神南 らぁ麺 なお人\|天神南 らぁ麺 なお人]]            | 2024-09-13 |
+| [[xhs/日本/福冈/六本松 珈琲美美\|六本松 珈琲美美]]                 | 2024-09-13 |
+| [[xhs/日本/福冈/天神 麺や兼虎\|天神 麺や兼虎]]                   | 2024-09-13 |
+| [[xhs/日本/福冈/Baskin Robbins_MARK IS\|Baskin Robbins_MARK IS]]          | 2024-09-14 |
+| [[xhs/日本/福冈/药院 COFFEE COUNTY Fukuoka\|药院 COFFEE COUNTY Fukuoka]]      | 2024-09-14 |
+| [[xhs/日本/福冈/博多站 元祖博多めんたい重\|博多站 元祖博多めんたい重]]       | 2024-09-15 |
+| [[xhs/日本/福冈/博多站 如水庵\|博多站 如水庵]]                   | 2024-09-15 |
 
 ## 东京
-|店舗名|訪問日|
-|---|---|
-|[[xhs/日本/东京/八重洲地下街 えびそば一幻\|八重洲地下街 えびそば一幻]]|2024-09-15|
-|[[xhs/日本/东京/涩谷 Miyashita Cafe\|涩谷 Miyashita Cafe]]|2024-09-16|
-|[[xhs/日本/东京/銀座 鴨そば九代目けいすけ\|銀座 鴨そば九代目けいすけ]]|2024-09-16|
-|[[xhs/日本/东京/涩谷 鳥貴族\|涩谷 鳥貴族]]|2024-09-16|
-|[[xhs/日本/东京/八重洲地下街 アロマ珈琲\|八重洲地下街 アロマ珈琲]]|2024-09-17|
-|[[xhs/日本/东京/上野 一蘭\|上野 一蘭]]|2024-09-17|
-|[[xhs/日本/东京/上野 東京油組總本\|上野 東京油組總本]]|2024-09-17|
-|[[xhs/日本/东京/银座 Glitch Coffee and Roasters GINZA\|银座 Glitch Coffee and Roasters GINZA]]|2024-09-18|
-|[[xhs/日本/东京/銀座 ジョアン\|銀座 ジョアン]]|2024-09-18|
-|[[xhs/日本/东京/羽田机场T3 夢吟坊\|羽田机场T3 夢吟坊]]|2024-09-18|
-|[[xhs/日本/东京/东京站 沾麵 六厘舍\|东京站 沾麵 六厘舍]]|2024-09-18|
-
+| 店舗名                                    | 訪問日     |
+| ----------------------------------------- | ---------- |
+| [[xhs/日本/东京/八重洲地下街 えびそば一幻\|八重洲地下街 えびそば一幻]]             | 2024-09-15 |
+| [[xhs/日本/东京/涩谷 Miyashita Cafe\|涩谷 Miyashita Cafe]]                   | 2024-09-16 |
+| [[xhs/日本/东京/銀座 鴨そば九代目けいすけ\|銀座 鴨そば九代目けいすけ]]             | 2024-09-16 |
+| [[xhs/日本/东京/涩谷 鳥貴族\|涩谷 鳥貴族]]                           | 2024-09-16 |
+| [[xhs/日本/东京/八重洲地下街 アロマ珈琲\|八重洲地下街 アロマ珈琲]]               | 2024-09-17 |
+| [[xhs/日本/东京/上野 一蘭\|上野 一蘭]]                             | 2024-09-17 |
+| [[xhs/日本/东京/上野 東京油組總本\|上野 東京油組總本]]                     | 2024-09-17 |
+| [[xhs/日本/东京/银座 Glitch Coffee and Roasters GINZA\|银座 Glitch Coffee and Roasters GINZA]] | 2024-09-18 |
+| [[xhs/日本/东京/銀座 ジョアン\|銀座 ジョアン]]                         | 2024-09-18 |
+| [[xhs/日本/东京/羽田机场T3 夢吟坊\|羽田机场T3 夢吟坊]]                     | 2024-09-18 |
+| [[xhs/日本/东京/东京站 沾麵 六厘舍\|东京站 沾麵 六厘舍]]                    | 2024-09-18 |
 
 # 韩国
 ## 首尔
@@ -78,3 +71,10 @@
 | [[xhs/韩国/首尔/弘大 Sarukame\|弘大 Sarukame]]                          | 2024-11-14 |
 | [[xhs/韩国/首尔/江南 Amy's coffee\|江南 Amy's coffee]]                      | 2024-11-14 |
 
+# 俄罗斯
+
+# 意大利
+
+# 西班牙
+
+# 德国
