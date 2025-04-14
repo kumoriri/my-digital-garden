@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"Garden_others\"","permalink":"/\"Garden_others\"/","tags":["garden"],"updated":"2025-04-14T19:49:13.939+08:00"}
+{"dg-publish":true,"dg-permalink":"Garden_others","permalink":"/Garden_others/","tags":["garden"],"updated":"2025-04-14T20:08:53.531+08:00"}
 ---
 
 << [[Obsidian_garden/Garden_homepage\|Garden_homepage]] | [[xhs/美食导航\|美食导航]] >>
