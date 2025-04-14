@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-dg-homepage","permalink":"/obsidian-dg-homepage/","tags":["garden","gardenEntry"],"updated":"2025-04-14T20:15:36.470+08:00"}
+{"dg-publish":true,"dg-permalink":"obsidian-dg-homepage","permalink":"/obsidian-dg-homepage/","tags":["garden","gardenEntry","gardenEntry"],"updated":"2025-04-14T20:15:36.470+08:00"}
 ---
 
 
